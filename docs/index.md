@@ -1,10 +1,15 @@
 ---
 layout: home
 
+title: The Government of Yoahtl
+titleTemplate: false
+
+description: The Empire of the Rising Dawn, a decade old minecraft community with deep history and Aztec influences.
+
 hero:
   name: Yoahtl
   text: The Empire of the Rising Dawn
-  tagline: A decade old minecraft community with a long history and Aztec influences.
+  tagline: A decade old minecraft community with deep history and Aztec influences.
   image:
     src: /yoahtl-flag.png
     alt: Yoahtlan flag
