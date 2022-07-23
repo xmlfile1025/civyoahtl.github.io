@@ -10,7 +10,12 @@ export default {
       { text: "Constitution", link: "/constitution/charter" },
       { text: "Government", link: "/government" },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/CivYoahtl" }],
+    socialLinks: [
+      {
+        icon: "github",
+        link: "https://github.com/CivYoahtl/civyoahtl.github.io",
+      },
+    ],
     editLink: {
       pattern:
         "https://github.com/civyoahtl/civyoahtl.github.io/edit/main/docs/:path",
