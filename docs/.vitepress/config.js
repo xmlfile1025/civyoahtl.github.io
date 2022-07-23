@@ -20,7 +20,10 @@ export default {
       "/constitution/": [
         {
           text: "Constitution",
-          items: [{ text: "Charter", link: "/constitution/charter" }],
+          items: [
+            { text: "The Third Charter", link: "/constitution/charter" },
+            { text: "Treaties", link: "/constitution/treaties" },
+          ],
         },
         {
           text: "Historical",
