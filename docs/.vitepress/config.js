@@ -1,6 +1,7 @@
 export default {
   title: "Yoahtl Gov",
   description: "The website for the Yoahtlan government",
+  lastUpdated: true,
   themeConfig: {
     siteTitle: "The Government of Yoahtl",
     logo: "/yoahtl-flag.png",
