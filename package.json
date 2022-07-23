@@ -1,0 +1,18 @@
+{
+  "name": "civyoahtl.github.io",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/civyoahtl/civyoahtl.github.io",
+  "author": "Husky <39809509+Huskydog9988@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
