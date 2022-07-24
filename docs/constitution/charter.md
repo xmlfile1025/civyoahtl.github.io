@@ -1,4 +1,4 @@
-# The Third Charter
+# Third Yoahtlan National Charter
 
 [[toc]]
 

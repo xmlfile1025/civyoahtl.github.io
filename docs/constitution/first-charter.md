@@ -1,4 +1,4 @@
-# The First Charter
+# Yoahtlan National Charter
 
 [[toc]]
 
