@@ -9,6 +9,7 @@ export default {
       { text: "Culture & History", link: "/culture/index" },
       { text: "Constitution", link: "/constitution/charter" },
       { text: "Government", link: "/government/introduction" },
+      { text: "Misc", items: [{ text: "Dead Letters", link: "/deadLetters" }] },
     ],
     socialLinks: [
       {
