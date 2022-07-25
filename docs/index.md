@@ -22,7 +22,7 @@ hero:
       link: /constitution/charter
     - theme: alt
       text: Government
-      link: /government
+      link: /government/introduction
 
 features:
   - icon: 🕐
