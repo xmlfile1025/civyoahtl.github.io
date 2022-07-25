@@ -72,7 +72,15 @@ export default {
           items: [
             {
               text: "Acts",
-              link: "/government/council-acts",
+              link: "/government/council-acts/intro",
+            },
+            {
+              text: "Precursor Council",
+              link: "/government/council-acts/precursor",
+            },
+            {
+              text: "First Council",
+              link: "/government/council-acts/first",
             },
           ],
         },
