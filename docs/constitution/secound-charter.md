@@ -2,6 +2,10 @@
 
 [[toc]]
 
+:::info
+You can also read the [original copy](https://drive.google.com/file/d/1z9_h7-RuDyWfINQaIbpxPZbK3izMtPp0/view).
+:::
+
 ## Preamble
 
 Over the past year, Yoahtl has straddled the line between informal community and political entity, experiencing both great successes and grave failures on each side. Going forward the country must reconcile these dual purposes.
