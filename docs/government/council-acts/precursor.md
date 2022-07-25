@@ -1,5 +1,7 @@
 # Decisions of the Precursor Council - CivTemp and Devoted
 
+[[toc]]
+
 ## Council Act 1.1
 
 > ~~Individual judges order their courts how they see fit, within reason; a player can appeal the decision to the alcuahtl if they believe a mistrial has taken place; criminal trials have to go to court but civil trials can be decided via trial by carrot or by arbitration of a judge willing to hear the case.~~
