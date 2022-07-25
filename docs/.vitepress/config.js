@@ -82,6 +82,10 @@ export default {
               text: "First Council",
               link: "/government/council-acts/first",
             },
+            {
+              text: "Secound Council",
+              link: "/government/council-acts/secound",
+            },
           ],
         },
         {
