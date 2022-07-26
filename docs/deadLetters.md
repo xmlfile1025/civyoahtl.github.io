@@ -1,4 +1,4 @@
-# Dead Links
+# Dead Letters
 
 A collection of links found within Yoahtl's Wiki on reddit that no longer contain any content/don't exist.
 
