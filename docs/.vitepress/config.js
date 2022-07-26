@@ -60,6 +60,8 @@ export default defineConfig({
     // PWA manifest
     ["link", { rel: "preconnect", href: "/manifest.webmanifest" }],
     ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
+    // register sw
+    ["script", { async: true, src: "/registerSW.js" }],
   ],
   lastUpdated: true,
   themeConfig: {
