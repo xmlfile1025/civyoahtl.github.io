@@ -43,10 +43,9 @@ export default defineConfig({
         content: "The website for the Yoahtlan government",
       },
     ],
-    ["meta", { name: "twitter:title", content: "Vite Plugin PWA" }],
+    ["meta", { name: "twitter:title", content: "The Government of Yoahtl" }],
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:image", content: ogImage }],
-    ["meta", { name: "twitter:site", content: "@antfu7" }],
     ["meta", { name: "twitter:url", content: ogUrl }],
     [
       "link",
