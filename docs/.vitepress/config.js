@@ -131,22 +131,11 @@ export default defineConfig({
         },
         {
           text: "Council",
+          collapsible: true,
           items: [
             {
               text: "Acts",
-              link: "/government/council-acts/intro",
-            },
-            {
-              text: "Precursor Council",
-              link: "/government/council-acts/precursor",
-            },
-            {
-              text: "First Council",
-              link: "/government/council-acts/first",
-            },
-            {
-              text: "Secound Council",
-              link: "/government/council-acts/secound",
+              link: "/government/council-acts",
             },
           ],
         },
