@@ -10,13 +10,13 @@ _(Amendments are hidden by spoiler text by default to avoid confusion; Acts (or 
 
 > ~~Individual judges order their courts how they see fit, within reason; a player can appeal the decision to the alcuahtl if they believe a mistrial has taken place; criminal trials have to go to court but civil trials can be decided via trial by carrot or by arbitration of a judge willing to hear the case.~~
 
-_(Repealed via [Council Act 4.0](/government/council-acts/first#council-act-4-0))_
+_(Repealed via [Council Act 4.0](#council-act-4-0))_
 
 ### Council Act 1.2
 
 > ~~The Alcuahtl’s decision on a court case is final, no further appeals shall be allowed.~~
 
-_(Repealed via [Council Act 4.0](/government/council-acts/first#council-act-4-0))_
+_(Repealed via [Council Act 4.0](#council-act-4-0))_
 
 ### Council Act 1.3
 
@@ -34,7 +34,7 @@ _(Amended via Council Act 6.1; Amended via Council Act 6.4; Amended via Council 
 
 > ~~The Yoahtlan council is empowered to dispatch an appointed deputy ("meter-reader") to check the state of house reinforcements within the town. If a town fails to meet the minimum activity requirement, they will be put on probation for a month and their senator will not be required to achieve a quorum for senate votes; if after a month they have not achieved minimum activity again, their senate seat will be dissolved.~~
 
-_(Repealed via [Council Act 4.0](/government/council-acts/first#council-act-4-0))_
+_(Repealed via [Council Act 4.0](#council-act-4-0))_
 
 ### Council Act 1.6
 
@@ -58,7 +58,7 @@ _(Repealed via Council Act 13.3; Restored via Council Act 13.8)_
 
 > Approve the Third Charter.
 
-> Repeal Council Acts [1.1](/government/council-acts/precursor.html#council-act-1-1), [1.2](/government/council-acts/precursor.html#council-act-1-2), and [1.5](/government/council-acts/precursor.html#council-act-1-5).
+> Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
 
 _(Amended via Council Act 5.7; Amended via Council Act 13.6; Amended via Council Act 13.8)_
 
@@ -104,7 +104,7 @@ _(Retired via Council Act 24.2)_
 
 > **Executive** Officially adopt new group structure.
 
-> Repeal Council Act [1.6](/government/council-acts/precursor.html#council-act-1-6).
+> Repeal Council Act [1.6](#council-act-1-6).
 
 ### Council Act 5.8
 
