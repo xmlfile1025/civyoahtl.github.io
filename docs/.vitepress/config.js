@@ -19,12 +19,21 @@ export default defineConfig({
       { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#ffffff" },
     ],
     [
+      "link",
+      {
+        rel: "apple-touch-icon",
+        href: "/apple-touch-icon.png",
+        sizes: "180x180",
+      },
+    ],
+    [
       "meta",
       {
         name: "keywords",
         content: "Civ, Minecraft, Wiki, Government",
       },
     ],
+    // open graph
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:title", content: "The Government of Yoahtl" }],
     ["meta", { property: "og:image", content: ogImage }],
@@ -36,6 +45,7 @@ export default defineConfig({
       },
     ],
     ["meta", { property: "og:url", content: ogUrl }],
+    // twitter's og because special
     [
       "meta",
       {
@@ -47,14 +57,9 @@ export default defineConfig({
     ["meta", { name: "twitter:card", content: "summary_large_image" }],
     ["meta", { name: "twitter:image", content: ogImage }],
     ["meta", { name: "twitter:url", content: ogUrl }],
-    [
-      "link",
-      {
-        rel: "apple-touch-icon",
-        href: "/apple-touch-icon.png",
-        sizes: "180x180",
-      },
-    ],
+    // PWA manifest
+    ["link", { rel: "preconnect", href: "/manifest.webmanifest" }],
+    ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
   ],
   lastUpdated: true,
   themeConfig: {

@@ -7,9 +7,14 @@ export default defineConfig({
       outDir: ".vitepress/dist",
       registerType: "autoUpdate",
       workbox: {
-        globPatterns: ["**/*.{js,css,html,ico,png}"],
+        globPatterns: ["**/*.{js,css,html,ico,png,svg,woff2}"],
       },
       includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
+      devOptions: {
+        enabled: false,
+        /* other options */
+      },
+      injectRegister: "script",
       manifest: {
         name: "The Government of Yoahtl",
         short_name: "Yoahtl Gov",
