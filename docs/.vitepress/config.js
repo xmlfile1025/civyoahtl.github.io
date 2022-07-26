@@ -131,7 +131,6 @@ export default defineConfig({
         },
         {
           text: "Council",
-          collapsible: true,
           items: [
             {
               text: "Acts",
