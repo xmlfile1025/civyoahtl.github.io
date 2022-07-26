@@ -1,6 +1,62 @@
-export default {
+import { defineConfig } from "vitepress";
+
+const ogUrl = "https://civyoahtl.github.io/";
+const ogImage = "https://civyoahtl.github.io/yoahtl-flag.png";
+
+export default defineConfig({
   title: "Yoahtl Gov",
   description: "The website for the Yoahtlan government",
+  head: [
+    ["meta", { name: "theme-color", content: "#ffffff" }],
+    // ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
+    // ['link', { rel: 'alternate icon', href: '/favicon.ico', type: 'image/png', sizes: '16x16' }],
+    [
+      "link",
+      { rel: "icon", href: "/favicon.ico", type: "image/png", sizes: "16x16" },
+    ],
+    [
+      "link",
+      { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#ffffff" },
+    ],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content: "Civ, Minecraft, Wiki, Government",
+      },
+    ],
+    ["meta", { property: "og:type", content: "website" }],
+    ["meta", { property: "og:title", content: "The Government of Yoahtl" }],
+    ["meta", { property: "og:image", content: ogImage }],
+    [
+      "meta",
+      {
+        property: "og:description",
+        content: "The website for the Yoahtlan government",
+      },
+    ],
+    ["meta", { property: "og:url", content: ogUrl }],
+    [
+      "meta",
+      {
+        name: "twitter:description",
+        content: "The website for the Yoahtlan government",
+      },
+    ],
+    ["meta", { name: "twitter:title", content: "Vite Plugin PWA" }],
+    ["meta", { name: "twitter:card", content: "summary_large_image" }],
+    ["meta", { name: "twitter:image", content: ogImage }],
+    ["meta", { name: "twitter:site", content: "@antfu7" }],
+    ["meta", { name: "twitter:url", content: ogUrl }],
+    [
+      "link",
+      {
+        rel: "apple-touch-icon",
+        href: "/apple-touch-icon.png",
+        sizes: "180x180",
+      },
+    ],
+  ],
   lastUpdated: true,
   themeConfig: {
     siteTitle: "The Government of Yoahtl",
@@ -109,4 +165,4 @@ export default {
       ],
     },
   },
-};
+});
