@@ -156,6 +156,17 @@ export default defineConfig({
             },
           ],
         },
+        {
+          text: "Gov Documents",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "Yoahtl Crimes Act",
+              link: "/government/yoahtl-crimes-act",
+            },
+          ],
+        },
       ],
     },
   },
