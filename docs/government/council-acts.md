@@ -217,3 +217,45 @@ _(Amended via [Council Act 15.7](#council-act-15-7); Retired via [Council Act 24
 > ~~Make Council Act 8.2 private to the government alone.~~
 
 _(Repealed via [Council Act 15.7](#council-act-15-7))_
+
+## Decisions of the Third Council - December 14th, 2017 to February 14th, 2018
+
+### Council Act 9.1
+
+> ~~Amend the charter to add Article III Section 6: Allow recall elections to be advanced by petition of the citizenry. If more than half the total of the previous voters submit a petition for a new election for a council seat and the council finds no evidence of collusion or bad faith then a new election will be held. All petitions must have a reason for recalling the elected official and cannot be initiated or signed by the alcuahtl, his deputy, or other councillors.~~
+
+_(Repealed via [Council Act 13.3](#council-act-13-3))_
+
+### Council Act 9.2
+
+> The Alcuahtl assigns the role of Auditor-General to an individual Citizen. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a Citizen heavily involved in production or expenditure (I.e XP production or defense). The Council may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+
+(Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.6](#council-act-15-6); Amended via [Council Act 24.4](#council-act-24-4))
+
+### Council Act 9.3
+
+> Councillors are to make the effort to meet in game when possible during Council meetings.
+
+### Council Act 9.4
+
+> ~~Amend Council Act 5.1:~~
+> ::: details
+> ~~Property is usage-based, on a first-come, first-served basis - you own what you have built on.~~ **All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.**
+> :::
+
+### Council Act 9.5
+
+> The Government and all its property is owned by the public and must act in their ultimate interests.
+
+### Council Act 9.6
+
+> ~~Amend Council Act 1.4:~~
+> ::: details
+> ~~A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time.~~ **The Alcuahtl may appoint a governor to administer the protectorate at their discretion. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time. Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.**
+> :::
+
+(Superceded via Ololtic Proposal 8)
+
+### Council Act 9.7
+
+> Repeal [Council Act 6.6](#council-act-6-6).
