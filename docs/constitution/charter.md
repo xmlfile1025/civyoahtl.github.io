@@ -48,7 +48,7 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
 1. The Council shall meet regularly to jointly determine the direction of the nation and plans for its future development and growth.
 
-1. The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.
+1. The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors.
 
 1. The Council, with the approval of the Alcuahtl as the head of the armed forces, is responsible for voting on whether to declare war on a foreign power. A ⅔ majority vote and the approval of the Alcuahtl is required to declare war.
 
@@ -231,3 +231,7 @@ Add the following sub-article to Article 2:
 ### 12th Amendment
 
 1. Add subsection to Article 2.4: `Laws passed by the Council may not override laws passed by the Ololtic.`
+
+### 13th Amendment
+
+1. To take effect when the next full council election occurs (September 2022): Changing Article 2 Section 7 from 'The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.' to 'The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors.'
