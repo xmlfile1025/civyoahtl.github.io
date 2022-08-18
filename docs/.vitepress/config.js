@@ -175,6 +175,10 @@ export default defineConfig({
               text: "Yoahtl Crimes Act",
               link: "/government/documents/yoahtl-crimes-act",
             },
+            {
+              text: "Treaty of Siccufrigus",
+              link: "/government/documents/siccufrigus",
+            },
           ],
         },
       ],
