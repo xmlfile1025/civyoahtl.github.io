@@ -169,11 +169,11 @@ export default defineConfig({
           items: [
             {
               text: "Docs Introduction",
-              link: "/government/docs-intro",
+              link: "/government/documents/docs-intro",
             },
             {
               text: "Yoahtl Crimes Act",
-              link: "/government/yoahtl-crimes-act",
+              link: "/government/documents/yoahtl-crimes-act",
             },
           ],
         },
