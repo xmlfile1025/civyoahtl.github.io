@@ -505,3 +505,19 @@ _(Superceded via Ololtic Proposal 27)_
 ### Council Act 16.8
 
 > [Proposal 14](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eleven_.28passed.29)
+
+## Decisions of the Eleventh Council - October 14th, 2019 to December 14th, 2019
+
+### Council Act 17.1
+
+> Feathercrown unanimously reaffirmed as Alcuahtl, bgbba as Deputy Alcuahtl.
+
+### Council Act 17.2
+
+> ~~[Proposal 20](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_.28passed.29)~~
+
+_(Superceded via Ololtic Proposal 27)_
+
+### Council Act 17.3
+
+> Resolved the Okashiman Government Crisis with the passing of [Proposal 21](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_one_.28passed.29).
