@@ -467,3 +467,41 @@ _(Partly superceded via [Council Act 24.2](#council-act-24-2))_
 ### Council Act 15.12
 
 > The High Justice can declare mistrials.
+
+## Decisions of the Tenth Council - August 14th, 2019 to October 14th, 2019
+
+### Council Act 16.1
+
+> Approved the [Treaty of Okatu](/constitution/treaties#treaty-of-okatu).
+
+### Council Act 16.2
+
+> Approved the [Treaty of Odresh](/constitution/treaties#treaty-of-odresh), excepting Batavia given their sovereign status.
+
+### Council Act 16.3
+
+> Approved the [Merger with Vinland](/constitution/treaties#merger-with-vinland) treaty with protections for Nro'Meargh transferring from Vinland to Yoahtl.
+
+_(Repealed via Article 2.9 of [Merger with Vinland](/constitution/treaties#merger-with-vinland))_
+
+### Council Act 16.4
+
+> Feathercrown unanimous reaffirmed as Alcuahtl, bgbba officially appointed as Deputy Alcuahtl unanimously.
+
+### Council Act 16.5
+
+> [Proposal 5](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_five_.28passed.29)
+
+### Council Act 16.6
+
+> [Proposal 8](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eight_.28passed.29)
+
+### Council Act 16.7
+
+> ~~[Proposal 11](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eleven_.28passed.29)~~
+
+_(Superceded via Ololtic Proposal 27)_
+
+### Council Act 16.8
+
+> [Proposal 14](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eleven_.28passed.29)
