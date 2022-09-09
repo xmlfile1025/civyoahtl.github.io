@@ -553,3 +553,11 @@ _(Superceded via Ololtic Proposal 27)_
 > [Proposal 26](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_six_.28passed.29)
 
 _(Superceded via Ololtic Proposal 27)_
+
+## Decisions of the Fourteenth Council - June 15th, 2020 to August 21st, 2020
+
+### Council Act 20.1
+
+> [Proposal 29](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_nine_.28passed.29)
+
+## Decisions of the Fifteenth Council - August 21st, 2020 to October 21st, 2020
