@@ -259,3 +259,32 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 ### Council Act 9.7
 
 > Repeal [Council Act 6.6](#council-act-6-6).
+
+## Decisions of the Fourth Council - February 14th, 2018 to April 14th, 2018
+
+### Council Act 10.1
+
+> During a Council election, no vote counts will be announced until the end of the voting period.
+
+### Council Act 10.2
+
+> Citizens choosing to run for Councillor must announce candidacy on the Yoahtl subreddit.
+
+_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13.8))_
+
+### Council Act 10.3
+
+> _Executive_ Abolish the position of Director.
+
+### Council Act 10.4
+
+> Record council decisions based on election cycles rather than individual sessions or special elections.
+
+### Council Act 10.5
+
+> Amend Council Act 4.1:
+> ::: details
+> Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions. **Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.**
+> :::
+
+_(Superceded via [Council Act 13.8](#council-act-13.8))_
