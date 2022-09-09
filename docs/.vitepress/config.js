@@ -168,8 +168,16 @@ export default defineConfig({
           collapsed: true,
           items: [
             {
+              text: "Docs Introduction",
+              link: "/government/documents/docs-intro",
+            },
+            {
               text: "Yoahtl Crimes Act",
-              link: "/government/yoahtl-crimes-act",
+              link: "/government/documents/yoahtl-crimes-act",
+            },
+            {
+              text: "Treaty of Siccufrigus",
+              link: "/government/documents/siccufrigus",
             },
           ],
         },

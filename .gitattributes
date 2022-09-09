@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto eol=lf
+
+# Make git track files as binaries
 *.pdf binary
+*.png binary
