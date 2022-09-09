@@ -310,3 +310,84 @@ _(Repealed via [Council Act 13.1](#council-act-13-1))_
 ### Council Act 12.2
 
 > _Executive_ Meetings should be held in voicechat and ingame regularly as specified in the charter. This motion reaffirms the Charter's reasoning behind this and establishes a commitment to reviving the tradition.
+
+## Decisions of the Seventh Council August 14th, 2018 to September 22nd, 2018
+
+### Provisional Government!
+
+> Article VI Section 2 of the Charter invoked and provisional government established.
+
+## Decisions of the Provisional Government - September 22nd, 2018 to February 14th, 2019
+
+### Council Act 13.1
+
+> Repeal [Council Act 11.2](#council-act-11-2).
+
+### Council Act 13.2
+
+> ~~Adopt the [Yoahtl Crimes Act (October 2018)](/government/documents/yoahtl-crimes-act) as guidelines for the Yoahtl courts.~~
+
+_(Repealed via [Council Act 24.3](#council-act-24-3))_
+
+### Council Act 13.3
+
+> In preparation for the Second Charter:  
+> ~~Repeal Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [7.1](#council-act-7-1), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).~~  
+> ~~Amend [Council Act 1.4](#council-act-1-4):~~
+> ::: details
+> Any group of players wishing to form a town may submit papers of incorporation to the ~~Council~~ **Ololtic** of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to ~~vote for the Council and~~ choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code ~~and can vote for the Council~~. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.
+> :::
+> ~~Amend [Council Act 6.2](#council-act-6-2):~~
+> ::: details
+> ~~The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but but cannot abuse the power. The other two councillors may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.~~ **The Head of State may assign an Ololtic the Dereliction portfolio. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Dereliction Officer has discretion over the need to derelict, but but cannot abuse the power. The Alcuahtl or Ololtic may overrule the Dereliction Officer in extreme cases.**
+> :::
+> ~~Amend [Council Act 9.2](#council-act-9-2):~~
+> ::: details
+> The ~~Alcuahtl assigns the role of Auditor-General to an individual Councillor~~ **Head of State may assign an Ololtic the Auditor-General portfolio**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be ~~a Councillor~~ heavily involved in production or expenditure (I.e XP production or defense). ~~The other Councillors may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.~~
+> :::
+> Amend [Council Act 10.1](#council-act-10-1):
+> ::: details
+> During ~~a Council~~ **an** election **or referendum**, no vote counts will be announced until the end of the voting period.
+> :::
+
+_(Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.2](#council-act-15-2))_
+
+### Council Act 13.4
+
+> ~~Adopt the [Yoahtl Code of Legal Procedure (November 2018)](https://drive.google.com/file/d/1QG9S1R37BithG-OhaGge_kU04sEe6f_z/view) as the official procedure under Article V section 2 of the Second Charter.~~
+
+_(Superceded via [Council Act 13.7](#council-act-13-7))_
+
+### Council Act 13.5
+
+> ~~Adopt the [Yoahtl Code of Citizenship (November 2018)](https://drive.google.com/file/d/1E6hlr2OaClAl2OwWFc1-rmvEqcCqIvcR/view) as the official requirements and process under Article VII Section 1 Subsection A and Article VIII Section 2 Subsection A of the Second Charter.~~
+
+_(Repealed via [Council Act 13.8](#council-act-13-8))_
+
+### Council Act 13.6
+
+> Promulgate the [Second Charter](/constitution/secound-charter).  
+> Repeal [Council Act 4.0](#council-act-4-0)'s approval of the First Charter.
+
+### Council Act 13.7
+
+> Adopt the [Yoahtl Code of Legal Procedure (December 2018)](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view) as the official procedure under Article V Section 2 of the Second Charter.
+
+### Council Act 13.8
+
+> Repeal [Council Act 13.3](#council-act-13-3)’s repeals of Council Acts [1.7](#council-act-1-7), [4.1](#council-act-4-1), [5.8](#council-act-5-8), [6.5](#council-act-6-5), [8.1](#council-act-8-1), [9.1](#council-act-9-1), and [10.2](#council-act-10-2).  
+> ~~Repeal [Council Act 13.3](#council-act-13-3)’s ammendments of Council Acts [6.2](#council-act-6-2) and [9.2](#council-act-9-2).~~  
+> Repeal [Council Act 13.5](#council-act-13-5).  
+> Repeal [Council Act 13.6](#council-act-13-6).  
+> Amend [Council Act 4.0](#council-act-4-0):
+> ::: details
+> Approve the First Third Charter.  
+> Repeal Council Acts [1.1](#council-act-1-1), [1.2](#council-act-1-2), and [1.5](#council-act-1-5).
+> :::
+> Amend Council Act 4.1:
+> ::: details
+> ~~Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.~~ Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.
+> :::
+> Amend the Third Charter to include the High Justice changes from the Second Council and the citizenship voting for new citizens as new articles.
+
+_(Partly superceded via [Council Act 15.6](#council-act-15-6))_
