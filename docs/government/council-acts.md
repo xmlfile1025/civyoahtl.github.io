@@ -521,3 +521,13 @@ _(Superceded via Ololtic Proposal 27)_
 ### Council Act 17.3
 
 > Resolved the Okashiman Government Crisis with the passing of [Proposal 21](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_one_.28passed.29).
+
+## Decisions of the Twelfth Council - December 14th, 2019 to February 14th, 2020
+
+### Council Act 18.1
+
+> Unanimously voted in MightyOddish as the new Alcuahtl following FeatherCrown's voluntary resignation on 10th January 2020, bgbba reaffirmed.
+
+### Council Act 18.2
+
+> _Executive_ Commit Yoahtl to the war against the Obby Bombers and all those actively supporting them, assist in all operations as deemed necessary by the General
