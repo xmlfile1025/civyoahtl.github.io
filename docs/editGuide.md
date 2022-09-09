@@ -48,3 +48,7 @@ Now for example if you wanted to add a file under the `culture` section, with a 
 ```
 
 Now notice how the path for `link` is similar to the structure of how the files are laid out in the `docs` folder? Thats because your telling the website to go into the `culture` folder and find the file with the of `test`. Also notice how the `.md` wasn't included. Thats because **only** `.md` files should be placed within those folders, and it assumes as such.
+
+## WTF is Git?
+
+You can learn more about Git & Github on [Github's Git Guide](https://github.com/git-guides).
