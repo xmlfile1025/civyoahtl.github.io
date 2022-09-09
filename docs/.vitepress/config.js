@@ -158,7 +158,7 @@ export default defineConfig({
           items: [
             {
               text: "Cases and Precedents",
-              link: "/government/court-cases-precedents",
+              link: "/government/court-cases-precedents/index",
             },
           ],
         },
