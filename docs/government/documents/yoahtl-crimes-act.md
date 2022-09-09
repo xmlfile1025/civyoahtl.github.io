@@ -1,10 +1,10 @@
 # Yoahtl Crimes Act (October 2018)
 
-[[toc]]
-
 ::: warning
 The Yoahtl Crimes Act was repealed by Council Act 24.3 because we could not find a copy, and as such no longer provides legal definitions; but it was created from collected court precedent and does still represent the understanding of common crimes at the time, much of which has remained unchanged - Feather 8/6/2022
 :::
+
+[[toc]]
 
 ## Summary
 
