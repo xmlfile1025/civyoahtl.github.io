@@ -1,10 +1,10 @@
 # Second Yoahtlan National Charter
 
-[[toc]]
-
 :::info
 You can also read the [original copy](https://drive.google.com/file/d/1z9_h7-RuDyWfINQaIbpxPZbK3izMtPp0/view).
 :::
+
+[[toc]]
 
 ## Preamble
 
