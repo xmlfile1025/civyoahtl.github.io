@@ -288,3 +288,15 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 > :::
 
 _(Superceded via [Council Act 13.8](#council-act-13.8))_
+
+## Decisions of the Fifth Council - April 14th, 2018 to June 14th, 2018
+
+### Council Act 11.1
+
+> _Executive_ Institute emergency diamond rationing, shut down all diamond-iron exchanges.
+
+### Council Act 11.2
+
+> ~~Amend the Charter for the Deputy position to be a ‘first among equals’ position elected by the councillors from among the councillors by majority vote. The Deputy’s position will be to facilitate council business, announce and conduct meetings, and act as head of government to coordinate the population. The Deputy will be given the authority to, with the Alcuahtl’s permission, conduct business on behalf of the Alcuahtl but this is not to be construed as automatic.~~
+
+_(Repealed via [Council Act 13.1](#council-act-13-1))_
