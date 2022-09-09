@@ -587,3 +587,19 @@ _(Amended via [Council Act 21.3](#council-act-21-3))_
 > Give the following land: [https://imgur.com/a/a0Dy8Gc](https://imgur.com/a/a0Dy8Gc) to Nro'Meagh in exchange for the land of New Israel: [https://imgur.com/a/lLUOeJe](https://imgur.com/a/lLUOeJe)
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
+
+## Decisions of the Second Council of the New Era - August 12th, 2021 to October 11th 2021
+
+### Council Act 22.1
+
+> Loan DERBOSSDANIEL 900 diamonds. Instalments of 333 diamonds are to be made every two weeks to pay it back on the Saturday or Sunday of the week. (Has been paid back in full.)
+
+### Council Act 22.2
+
+> Sue NeoTide for dereliction of duty as general. (Outcome: Neo ended up sentenced to being pearled for a month, and was removed from duty for the time period).
+
+### Council Act 22.3
+
+> Belgravia granted land as a non-autonomous town. Yergo appointed as the main government liaison with Belgravia, and is to be their chief adviser/supervisor.
+
+_(Retired via [Council Act 24.2](#council-act-24-2))_
