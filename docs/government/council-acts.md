@@ -104,7 +104,7 @@ _(Retired via [Council Act 24.2](#council-act-24-2))_
 
 > **Executive** Officially adopt new group structure.
 
-> Repeal Council Act [1.6](#council-act-1-6).
+> Repeal [Council Act 1.6](#council-act-1-6).
 
 ### Council Act 5.8
 
@@ -130,9 +130,9 @@ _(Repealed via [Council Act 6.2](#council-act-6-2))_
 
 ### Council Act 6.1
 
-> Repeal Council Act 1.3.
+> Repeal [Council Act 1.3](#council-act-1-3).
 
-> Amend Council Act 1.4:
+> Amend [Council Act 1.4](#council-act-1-4):
 > ::: details
 > A protectorate is a city **or region designated by the Council and** under the protection of ~~Yoahtl; an~~ **Yoahtl. An** attack on it is an attack on the Empire of ~~Yoahtl itself. However, the city is not required to submit a charter for council approval, does not have a senator, and citizens of protectorates are ineligible to run for council or vote.~~ **Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.**
 > :::
@@ -143,13 +143,13 @@ _(Partly superceded via [Council Act 6.4](#council-act-6-4))_
 
 > The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but cannot abuse the power. The Council may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
 
-> Repeal Council Act 5.10.
+> Repeal [Council Act 5.10](#council-act-5-10).
 
 _(Amended via [Council Act 13.3](#council-act-13-3); Amended via [Council Act 13.8](#council-act-13-8); Amended via [Council Act 15.6](#council-act-15-6))_
 
 ### Council Act 6.3
 
-> ~~Amend Council Act 4.1:~~
+> ~~Amend [Council Act 4.1](#council-act-4-1):~~
 > ::: details
 > Citizenship in Yoahtl is determined by residency in a Yoahtlan town or on Yoahtlan territory. **Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.**
 > :::
@@ -158,7 +158,7 @@ _(Superceded via [Council Act 6.8](#council-act-6-8))_
 
 ### Council Act 6.4
 
-> ~~Amend Council Act 1.4:~~
+> ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
 > A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time. **The Alcuahtl may appoint a governor to administer the protectorate at their discretion.** A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time.
 > :::
@@ -187,7 +187,7 @@ _(Amended via [Proposal] Suspended Citizenship Restoration Procedure)_
 
 ### Council Act 6.8
 
-> ~~Amend Council Act 4.1:~~
+> ~~Amend [Council Act 4.1](#council-act-4-1):~~
 > ::: details
 > ~~Citizenship in Yoahtl is determined by residency in a Yoahtlan town or on Yoahtlan territory.~~ Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions.
 > :::
@@ -238,7 +238,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 ### Council Act 9.4
 
-> ~~Amend Council Act 5.1:~~
+> ~~Amend [Council Act 5.1](#council-act-5-1):~~
 > ::: details
 > ~~Property is usage-based, on a first-come, first-served basis - you own what you have built on.~~ **All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.**
 > :::
@@ -249,7 +249,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 
 ### Council Act 9.6
 
-> ~~Amend Council Act 1.4:~~
+> ~~Amend [Council Act 1.4](#council-act-1-4):~~
 > ::: details
 > ~~A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time.~~ **The Alcuahtl may appoint a governor to administer the protectorate at their discretion. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time. Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.**
 > :::
@@ -282,7 +282,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 
 
 ### Council Act 10.5
 
-> Amend Council Act 4.1:
+> Amend [Council Act 4.1](#council-act-4-1):
 > ::: details
 > Citizenship may be granted at the Alcuahtl or Deputy's discretion on the basis of trust and significant contributions. **Residency may be granted at any Government member's discretion on the basis of residing partly or wholly in Yoahtl and trust.**
 > :::
