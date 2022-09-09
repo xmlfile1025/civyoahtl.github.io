@@ -561,3 +561,29 @@ _(Superceded via Ololtic Proposal 27)_
 > [Proposal 29](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_nine_.28passed.29)
 
 ## Decisions of the Fifteenth Council - August 21st, 2020 to October 21st, 2020
+
+## Decisions of the First Council of the New Era - June 12th, 2021 to August 11th
+
+### Council Act 21.1
+
+> Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter.
+
+_(Amended via [Council Act 21.3](#council-act-21-3))_
+
+### Council Act 21.2
+
+> Change the Autonomous Town role in discord to give access to #citizenry, remove citizen tags from the Resimereans (and any other resident of Yoahtl who resides purely outside Yoahtl proper) to better display that they can't legally be on the ololtic nor vote on laws that effect Yoahtl proper.
+
+### Council Act 21.3
+
+> Re-add the High Justice to #council-chambers so that he can ensure the government acts legally and can give advice on matters of a legal nature. However, continue the affirmation that the High Justice is not a member of government and therefore does not gain powers granted to the government in the charter or in law.  
+> Amend [Council Act 21.1](#council-act-21-1):
+> ::: details
+> Reaffirm that the High Justice does not have the same access and powers of government as the council, as listed in the charter. ~~Expressing this, #council-chambers, is made private to government. Future conversations between the high justice and government occur in #judge-chambers.~~
+> :::
+
+### Council Act 21.4
+
+> Give the following land: [https://imgur.com/a/a0Dy8Gc](https://imgur.com/a/a0Dy8Gc) to Nro'Meagh in exchange for the land of New Israel: [https://imgur.com/a/lLUOeJe](https://imgur.com/a/lLUOeJe)
+
+_(Retired via [Council Act 24.2](#council-act-24-2))_
