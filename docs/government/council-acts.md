@@ -531,3 +531,25 @@ _(Superceded via Ololtic Proposal 27)_
 ### Council Act 18.2
 
 > _Executive_ Commit Yoahtl to the war against the Obby Bombers and all those actively supporting them, assist in all operations as deemed necessary by the General
+
+## Decisions of the Thirteenth Council - February 14th, 2020 to June 15th, 2020
+
+### Council Act 19.1
+
+> [Proposal 25](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_five_.28passed.29)
+
+_(Superceded via Ololtic Proposal 27)_
+
+### Council Act 19.2
+
+> Signed the [Charter of the United Defense Front](/constitution/treaties#joining-the-udf).
+
+### Council Act 19.3
+
+> Approved Pacem seceding from Yoahtl with friendly relations and a mutual defense pact.
+
+### Council Act 19.4
+
+> [Proposal 26](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_six_.28passed.29)
+
+_(Superceded via Ololtic Proposal 27)_
