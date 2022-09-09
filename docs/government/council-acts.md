@@ -300,3 +300,13 @@ _(Superceded via [Council Act 13.8](#council-act-13.8))_
 > ~~Amend the Charter for the Deputy position to be a ‘first among equals’ position elected by the councillors from among the councillors by majority vote. The Deputy’s position will be to facilitate council business, announce and conduct meetings, and act as head of government to coordinate the population. The Deputy will be given the authority to, with the Alcuahtl’s permission, conduct business on behalf of the Alcuahtl but this is not to be construed as automatic.~~
 
 _(Repealed via [Council Act 13.1](#council-act-13-1))_
+
+## Decisions of the Sixth Council - June 14th, 2018 to August 14th, 2018
+
+### Council Act 12.1
+
+> Chests should be removed to the dereliction room during derelictions before the building itself is torn down.
+
+### Council Act 12.2
+
+> _Executive_ Meetings should be held in voicechat and ingame regularly as specified in the charter. This motion reaffirms the Charter's reasoning behind this and establishes a commitment to reviving the tradition.
