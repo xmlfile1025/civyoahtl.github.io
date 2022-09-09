@@ -391,3 +391,79 @@ _(Repealed via [Council Act 13.8](#council-act-13-8))_
 > Amend the Third Charter to include the High Justice changes from the Second Council and the citizenship voting for new citizens as new articles.
 
 _(Partly superceded via [Council Act 15.6](#council-act-15-6))_
+
+## Decisions of the Eighth Council - February 14th, 2019 to June 14th, 2019
+
+### Council Act 14.1
+
+> **Executive and Council Consensus** Reaffirmed the traditional precedents regarding Chieftainship's role and method of transmission.
+
+## Decisions of the Ninth Council - June 14th, 2019 to August 14th, 2019
+
+### Council Act 15.1
+
+> _Executive_ Purchase the wither skull for the amount of 64 diamonds for the cauldron and grant GDAN conditional access to the cauldron and XP room. The right of access may be revoked if the grantee commits any unauthorized military actions, removal of materials belonging to any other persons or government, or acts in bad faith to create any situation detrimental to the Yoahtlan Government or its Citizenry. The grantor of this right of access will also notify the grantee if access has been revoked due to the above stated reasons. Should the grantee's right of access be revoked without valid reason, the right of access shall be reinstated.
+
+### Council Act 15.2
+
+> Nullify [Council Act 13.3](#council-act-13-3)'s amendments of [Council Act 1.4](#council-act-1-4).
+
+_(Superceded via Ololtic Proposal 8)_
+
+### Council Act 15.3
+
+> [Proposal 1](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_one_.28passed.29)
+
+_(Superceded via Ololtic Proposal 25)_
+
+### Council Act 15.4
+
+> [Proposal 2](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_two_.28passed.29)
+
+### Council Act 15.5
+
+> [Proposal 4](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_four_.28passed.29)
+
+### Council Act 15.6
+
+> Amend [Council Act 6.2](#council-act-6-2):
+> ::: details
+> The Alcuahtl assigns dereliction duty to an individual councillor. This duty cannot be delegated. The longest-inactive players are the first available for eviction and dereliction. The Derelictor and Alcuahtl have discretion over the need to derelict, but cannot abuse the power. The ~~other two councillors~~ **Council** may force the Alcuahtl to reconsider their choice of derelictor, but may not force a resignation without proof of wrongdoing.
+> :::
+> Amend [Council Act 9.2](#council-act-9-2):
+> ::: details
+> The Alcuahtl assigns the role of Auditor-General to an individual Councillor. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a Councillor heavily involved in production or expenditure (I.e XP production or defense). The ~~other Councillors~~ **Council** may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+> :::
+
+### Council Act 15.7
+
+> Amend [Council Act 8.2](#council-act-8-2):
+> ::: details
+> Authorize the construction of **~~Project [Redacted]~~ the Yoahtl Vault**.
+> :::
+> Repeal [Council Act 8.3](#council-act-8-3).
+
+_(Partly superceded via [Council Act 24.2](#council-act-24-2))_
+
+### Council Act 15.8
+
+> Amend [Council Act 5.2](#council-act-5-2):
+> ::: details
+> Construction outside the city walls requires pre-approval from a Government member. **This rule does not apply to non-autonomous towns.**
+> :::
+
+### Council Act 15.9
+
+> Amend the Charter to remove term limits from the position of Alcuahtl.
+
+### Council Act 15.10
+
+> Amend the Charter to allow the High Justice to be a Councillor.
+
+### Council Act 15.11
+
+> The High Justice can only preside on appeals.
+
+### Council Act 15.12
+
+> The High Justice can declare mistrials.
