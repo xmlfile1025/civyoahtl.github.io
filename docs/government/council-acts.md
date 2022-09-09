@@ -603,3 +603,53 @@ _(Retired via [Council Act 24.2](#council-act-24-2))_
 > Belgravia granted land as a non-autonomous town. Yergo appointed as the main government liaison with Belgravia, and is to be their chief adviser/supervisor.
 
 _(Retired via [Council Act 24.2](#council-act-24-2))_
+
+## Decisions of the Third Council of the New Era - October 12th, 2021 to December 13th, 2021
+
+### Council Act 23.1
+
+> Re-admit Cinzar to the Discord.
+
+### Council Act 23.2
+
+> Deny Okx's request to incorporate an autonomous town.
+
+## Decisions of the Fourth Council of the New Era - December 13th, 2021...
+
+### Council Act 24.1
+
+> Consider the following individual’s citizenships suspended as of January 1st, 2022 and to remove them from the voter rolls on all proposals since January 1st 2022:
+>
+> - MrCoCo_Cola
+> - iOminous
+> - Redwoodeagle
+> - smallfry834618
+> - Zeus_95
+
+Schedule 1: Recount [[Proposal] Clarify the legislative powers of the Council](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_clarify_the_legislative_powers_of_the_council) (still fails)
+
+Schedule 2: Recount [[Proposal] The Purgatory Period](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_the_purgatory_period) (still passes)
+
+Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (Reattempt)](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_clarify_the_legislative_powers_of_the_council_.28reattempt.29) (now passes)
+
+### Council Act 24.2
+
+> **Great Retirement Act**  
+> Retire any and all laws (or parts of laws) that claim or exchange land on Civclassics.  
+> Retire Council Acts [5.5](#council-act-5-5), [5.6](#council-act-5-6), [8.2](#council-act-8-2), [21.4](#council-act-21-4), and [22.3](#council-act-22-3).
+
+### Council Act 24.3
+
+> Repeal [Council Act 13.2](#council-act-13-2).  
+> It's the law that ratified the "Yoahtl Crimes Act (October 2018)", however the link is broken and nobody seems to have a backup. Since it cannot be found it should not be considered valid law.
+
+### Council Act 24.4
+
+> Amend Council Act 9.2:
+> ::: details
+> The Alcuahtl assigns the role of Auditor-General to an individual ~~Councillor~~ **Citizen**. This duty cannot be delegated. The Auditor-General is responsible for monitoring the supply of government resources (primarily liquid assets and XP). They must account for all transactions within reason, and follow-up and report on any discrepancies. The Auditor-General must ideally not be a ~~Councillor~~ **Citizen** heavily involved in production or expenditure (I.e XP production or defense). The Council may force the Alcuahtl to reconsider their choice of Auditor-General, but may not force a resignation without proof of wrongdoing.
+> :::
+
+### Council Act 24.5
+
+> Allow leave for the High Justice to preside over cases when either the Government is being sued; or when the Government is suing others.
