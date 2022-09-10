@@ -159,3 +159,170 @@ Proposer: bgbba, Seconded By: iOminous, Date: 25th September 2019
 > Eliminate #politics_irl and all other channels regarding politics or real life drama which causes internal drama or incites unneeded conflict between Yoahtlans, foreigners, or any other individuals who would otherwise exist in this discord unmolested and undisturbed.
 
 **Proposal withdrawn**: 2 Ayes, 9 Nays, 2 Abstentions
+
+## Proposal Sixteen (Failed)
+
+Proposer: F1SH98, Seconded By: Sventhar, Date: 25th September 2019
+
+> Officially ban all mining within the claims of Yoahtl Proper, including but not limited to, Okashima and Odresh. Domestic mining creates abandoned shafts underneath cities that can potentially be used to launch an attack against the settlement, but more importantly, they drain our valuable domestic resources sooner, rather than later. All mining should be limited to foreign or unclaimed lands before we mine in our sovereign territory as a matter of strategic importance.
+
+**Proposal failed**: 2 Ayes, No Nays, No Abstentions (Ruled Unconstitutional)
+
+## Proposal Seventeen (Failed)
+
+Proposer: Crusher, Seconded By: Klari, Date: 7th October 2019
+
+> Proposal to review election procedures to require an entirely secret ballot to prevent the swaying of the election based on public opinion should someone decide to vote publicly.
+
+**Proposal failed**: 3 Ayes, 13 Nays, No Abstentions
+
+## Proposal Eighteen (Failed)
+
+Proposer: Feathercrown, Seconded By: bgbba, Date: 11th October 2019
+
+> Change Council Law 6.5 from
+>
+> > "Dual citizens who do not have primary residence in Yoahtl or hold office in any other nation are ineligible to run for Council."
+>
+> to
+>
+> > "Dual citizens who do not have primary residence in Yoahtl Proper or who hold office in any other nation unless said nation is made up of entirely primary residents of Yoahtl Proper are ineligible to run for Council."
+
+Proposal failed: 3 Ayes, 5 Nays, 3 Abstentions
+
+## Proposal Nineteen (Failed)
+
+Proposer: GDAN12, Seconded By: Orinnari, Date: 14th October 2019
+
+> I'd like to make a proposal that candidates cannot initiate PMs about the elections/candidacy/voting with non-candidates from the time that the candidacy announcement post has been made until the new council is in power.
+
+**Proposal failed**: 6 Ayes, 9 Nays, 1 Abstention
+
+## Proposal Twenty (Passed)
+
+Proposer: Okx, Seconded By: Orinnari, Date: 17th October 2019
+
+> ~~Change the quorum to 50%~~
+
+Proposal passed: 15 Ayes, 1 Nay, 6 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## Proposal Twenty One (Passed)
+
+Proposer: The People of Okashima, Seconded By: TheAdvisor, Date: 17th October 2019
+
+> Governments are instituted among Men, deriving their just powers from the consent of the governed, — That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government”  
+> We the people of Okashima, hereby request the implementation of the following proposal:  
+> "Establish a government minister position for the leader of Okashima, known as the Minister of Okashima; who is henceforth to be elected from residents of the territory every two months, while removing the permanent position of Oudai which is currently held by F1sh98. The Minister will serve the town of Okato and the territory of Okashima in day to day management as well as communicating the needs of the town with the Yoahtlan government. In controversial decisions by the Minister the residents will have the power to challenge said decision, with it then going to a 2/3rds majority vote among all active residents of the territory. Residents can also call for a vote of no confidence in the Minister at any time, and with a 2/3rds majority vote removing him from office.  
+> We in Okashima feel this is necessary due to the blatant abuses of office committed by F1sh98 in his permanent position of Oudai. This position has no checks on its power, essentially forcing us to live in a despotic dictatorship. We do not wish to kick F1sh out of town, take any property he possesses, or revoke his right to live in Okashima. we simply want the town to be led by an elected official with the citizens all having a say in the direction of the town."  
+> We have gone directly to him with the changes we want, and the response was "It'll be a cold day in hell when you take my town from me". He is not satisfied with anything less than a permanent government position, believing himself above the citizens who toil under his rule. Since we have exhausted all other reasonable options, we haven now been forced to come to you, the people of Yoahtl, directly for help in our current efforts of democratization.  
+> While we are rejecting our own internal rule, we do still wish to remain loyal to the great nation of Yoahtl. We thank you for allowing us to grow with you and we hope to further strengthen our bonds by redeveloping the way we are governed.
+
+**Proposal passed**: 16 Ayes, 2 Nays, 6 Abstentions
+
+## Proposal Twenty Two (Failed)
+
+Proposer: iOminous, Seconded By: bgbba, Date: 16th December 2019
+
+> Councillor Candidate Tax  
+> Allow for the government to set a poll tax on all candidates interested in running. The tax will go to the nations treasury and incumbent candidates will not be allowed use public funds (they’ll need to be privately funded). I think wealth is a good indication of a players activity and it seems reasonable.
+
+**Proposal failed**: 5 Ayes, 10 Nays, 1 Abstention
+
+## Proposal Twenty Three (Failed)
+
+Proposer: SpaceVolcano, Seconded By: Charlieseeese, Date: 8th February 2020
+
+> https://docs.google.com/document/d/1azaUfuQrbdv7nD9D0EqHLaPR3CmZ9KnEpUltxH-8fA4/edit?usp=sharing
+
+Proposal failed: 3 Ayes, 3 Nays, No Abstentions
+
+## Proposal Twenty Four (Failed)
+
+Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
+
+> "A Proposal to Amend the Yoahtlan Charter to Obtain Faster, Superior Voting Results"  
+> Amend Article II Section 5 of the Third National Charter from the following text:
+>
+> > Councillors will be elected to a term of 2 months by a popular vote. Citizens may pick up to 3 candidates to >cast their ballots for, and the candidates with the 3 highest vote totals will comprise the council for that term.  
+> > a. The council shall be composed of 3 members minimum, with additional seats added for every 6 citizens beyond 12.  
+> > b. Councillors may resign at any time, for any reason, so long as they appoint a deputy to fill in for them if >needed before an official replacement is elected. An interim election should be held within one week of a >resignation to choose an official replacement.
+>
+> To the following text:
+>
+> > Councillors shall be elected to a term of two months by single transferable vote. The top candidates by popular vote shall become Councillors for that term.  
+> > a. The council shall be composed of three members, with one additional member for every six valid voters past 12.  
+> > b. Councillors may resign at any time and shall be replaced by the next most popular vote getter in the previous election who still meets the qualifications to be Councillor and who still has affirmative interest in serving on the Council.
+>
+> This proposal shall not affect the results of the February 2020 election.
+
+**Proposal failed**: 5 Ayes, 3 Nays, 1 Abstention (Failed to meet Quorum)
+
+## Proposal Twenty Five (Passed)
+
+Proposer: MightyOddish, Seconded By: nico0078, Date: 17th February 2020
+
+> ~~Proposals as they currently are are rather troublesome. To fix this any person can suggest a proposal and then awaits a member of council to second the motion, then the proposal. is posted up as a proposal (as we currently do). Then the council vote on said proposal as a primary vote. if the vote passes with a 2/3rd majority it goes to the citizenry to vote on a second round. the citizenry can then vote on said proposal in or out. In which it will require only a 60% majority of people who have voted to be passed or rejected. If the council however vote the proposal and reject it. the second round of voting will still go through in which citizens will vote. If it is wanted 90% of votes would have to be an 'aye' for it to pass through the councils rejection, if the 90% ayes is not reached then he proposal is rejected. ( this is deliberately worded to only count people who have actively voted. all non votes are subsequently not counted in the percentiles.)~~  
+> ~~This is a test of the new system. After a 3 week trial if this proposed system doesn't suit the needs or is disliked by the majority we will revert to our current system and look for another idea to fix voting issues.~~
+
+**Proposal passed**: 11 Ayes, 5 Nays, 2 Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## Proposal Twenty Six (Passed)
+
+Proposer: nico0078, Seconded By: iOminous, Date: 26th February 2020
+
+> ~~Change the requirement for the current trial proposal system so that in the second round of voting by citizens, it only requires a 75% aye vote from the citizens who vote to overturn a council vote of Nay in the first round of voting. This lowers the requirement since I know many believe the current 90% requirement to be too high.~~
+
+**Council Phase**: 3 Ayes, No Nays, No Abstentions
+
+**Ololtic Phase**: 16 Ayes, 2 Nays, No Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## Proposal Twenty Seven (Passed)
+
+Proposer: nico0078, Seconded By: UNKOWN, Date: 3rd March 2020
+
+> Any citizen can start a proposal, and it must be seconded by a different citizen after a period of discussion of any length during which the specifics of the law are discussed and revisions suggested. Once seconded, voting opens for the next 48 hours, during which additional discussion may occur. If the proposer wishes to include revisions from this additional discussion, they may update their proposal, at which point the voting period and votes both reset. Once voting closes, the proposal passes if there are more aye votes than nay votes and at least 1/3 of the citizenry has voted aye (or 2/3rds in the case of charter amendments).  
+> Councillors can also pass legislation. Any council member may start a proposal, and it is passed and becomes law if 2/3 of the councillors approve the proposal by voting aye. However, if at least as many citizens as there are council members express their desire to revoke this law, the law is temporarily suspended and a proposal is created to veto the Council's law.  
+> Laws passed by the Council may not override laws passed by the Ololtic. The Council may not re-propose a law vetoed by the Ololtic for a period of one month.
+
+**Proposal passed**: 16 Ayes, 1 Nay, Unknown Abstentions
+
+_(Amends [The Yoahtlan Charter](/constitution/charter))_
+
+## Proposal Twenty Eight (Failed)
+
+Proposer: MightyOddish, Seconded By: WackyAki, Date: 10th April 2020
+
+> Marketing and Advertisement Committee (MAC)  
+> Any public advertisements or posters to be displayed around the city ingame, (other than the owners private store.) must first be presented to a marketing board. The board will consist of;
+>
+> 1. The Alcuhatl
+> 2. Deputy Alcuahtl, or leader the leader of an autonomous town
+> 3. (cases of autonomous towns) 1 person selected by the towns leader (to make 3 people)
+> 4. A leader from a town in the case of non autonomous (to make 3 people)
+>
+> Advertisements or posters will be presented to the board members and decided weather it needs adjusting or can be posted as planned. Decisions must come to a 2/3 agreement for posting to pass and be allowed to post.
+
+Proposal failed: 2 Ayes, 10 Nays, No Abstentions
+
+## Proposal Twenty Nine (Passed)
+
+Proposer: bgbba, Seconded By: ComradeRick, Date: 6th August 2020
+
+> ~~Ashelor has formally requested to me to be admitted to Yoahtl as a non-autonomous town. The terms of the deal are as follows, like all normal incorporations of such towns:~~
+>
+> - ~~Ashelor and its currently held territory will join Yoahtl and be incorporated under the existing governmental structure of Ashelor~~
+> - ~~Ashelor's government will cede the authority over military affairs and citizenship to Yoahtl, but will retain its own player residency doctrines and rules and maintain the ability to enter into nonmilitary trade, diplomatic, and infrastructure relationships with foreign nations provided doing so doesn't interfere directly with Yoahtlan military affairs, subject to the limits of strict scrutiny in Yoahtlan courts against any Yoahtlan governmental interference. By default unless the Yoahtlan federal government can prove it to be necessary to intervene instance by instance, Ashelor will retain these liberties. This is standard policy and affirms the existing historical circumstances of all non-autonomous towns~~
+> - ~~Orinnari and Aleh will become normal Yoahtlan citizens, assuming they aren't already~~
+> - ~~the Great Overland Rail Corporation will prioritize an eastward extension of the GOR once bgbba has better internet to properly connect Ashelor to the GOR network~~ > ~~Citizens and trusted residents of Ashelor will be allowed all rights, privileges, freedoms, and liberties within NYC afforded to all citizens of Yoahtl including the right to access NYC and participate in the federal Yoahtlan institutions freely~~
+>
+> ~~This proposal requires the assent of a majority of Councillors, the Alcuahtl, and a majority of existing citizens.~~
+
+**Proposal passed**: 13 Ayes, No Nays, 1 Abstention
+
+_(Signed the [Treaty of Terestai](/constitution/treaties#treaty-of-terestai))_
