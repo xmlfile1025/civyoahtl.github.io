@@ -23,3 +23,5 @@ Precedents:
 - Theft will be met with forced restitution.
 - Searching a house for contraband is a valid tactic to find evidence for trials.
 - Repeated offenses of the same category can be punished more severely.
+
+## [Yoahtl v. 14uu, Oct 2017](/government/court-cases-precedents/yoahtl_v_14uu_oct_2017)
