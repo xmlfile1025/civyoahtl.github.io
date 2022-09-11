@@ -39,3 +39,10 @@ Precedents:
 
 - Insubordination is defined as a refusal to follow instructions when working with public property, sanctioned or unsanctioned.
 - Roads count as public property.
+
+## [Yoahtl v. Fran, Nov 2017](/government/court-cases-precedents/yoahtl_v_fran_nov_2017)
+
+Precedents:
+
+- If you are hired by a private citizen to do something and they tell you to stop, you stop.
+- It's not a deathtrap if it's not even finished and serving its intended purpose in the first place.
