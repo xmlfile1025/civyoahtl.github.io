@@ -15,3 +15,11 @@ Precedents:
 
 - Restitution of all items in cases of two-sided disputes is standard practice.
 - The person found to be more guilty in a two-sided dispute can be put on probation (pearled and summoned) if the court believes them to have been at fault.
+
+## [Crustifer v. SpicyBoy, Oct 2017](/government/court-cases-precedents/crustifer_v_spicyboy_oct_2017)
+
+Precedents:
+
+- Theft will be met with forced restitution.
+- Searching a house for contraband is a valid tactic to find evidence for trials.
+- Repeated offenses of the same category can be punished more severely.
