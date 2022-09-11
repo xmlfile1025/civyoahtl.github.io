@@ -8,3 +8,10 @@ Precedents:
 
 - Confirmed the Extinction Rule that unauthorized construction except for underneath a plot one owned is not considered valid unless the Government has approved of the action.
 - Grief is to be punished by having the griefer clean it up.
+
+## [1machinemaker1 v. 14uu, Aug 2017](/government/court-cases-precedents/1machinemaker1_v_14uu_aug_2017)
+
+Precedents:
+
+- Restitution of all items in cases of two-sided disputes is standard practice.
+- The person found to be more guilty in a two-sided dispute can be put on probation (pearled and summoned) if the court believes them to have been at fault.
