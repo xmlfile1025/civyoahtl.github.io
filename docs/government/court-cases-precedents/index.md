@@ -32,3 +32,10 @@ Precedents:
 
 - An extreme imbalance of capability during a physical altercation means that the person in a stronger position has a responsibility to be more mature.
 - Meming is not an excuse for violence if both parties aren't in on the meme.
+
+## [Yoahtl v. 1machinemaker1, Nov 2017](/government/court-cases-precedents/yoahtl_v_1machinemaker1_nov_2017)
+
+Precedents:
+
+- Insubordination is defined as a refusal to follow instructions when working with public property, sanctioned or unsanctioned.
+- Roads count as public property.
