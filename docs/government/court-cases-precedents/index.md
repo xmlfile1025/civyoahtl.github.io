@@ -25,3 +25,10 @@ Precedents:
 - Repeated offenses of the same category can be punished more severely.
 
 ## [Yoahtl v. 14uu, Oct 2017](/government/court-cases-precedents/yoahtl_v_14uu_oct_2017)
+
+## [14uu v. 5point0, Nov 2017](/government/court-cases-precedents/14uu_v_5point0_nov_2017)
+
+Precedents:
+
+- An extreme imbalance of capability during a physical altercation means that the person in a stronger position has a responsibility to be more mature.
+- Meming is not an excuse for violence if both parties aren't in on the meme.
