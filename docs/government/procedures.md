@@ -6,7 +6,7 @@ The standard guidelines for completing governmental duties. Please note that unl
 
 ## Judiciary
 
-- [Rules of Court Procedure](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view) ([Law](https://www.reddit.com/r/CivYoahtl/wiki/council/acts#wiki_council_act_13.7))
+- [Rules of Court Procedure](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view) ([Law](/government/council-acts#council-act-13-7))
 - Plea deals/bargains are private agreements between the prosecution and the defence; private principally meaning outside of court. However, the court can be used as a mediator to an agreement's negotiation. Plea deals/bargains are considered contracts.
 
 ## Military
@@ -23,8 +23,8 @@ Work in progress
 
 ## Dereliction
 
-- The Derelictor General cannot delegate dereliction duties. ([Law](https://www.reddit.com/r/CivYoahtl/wiki/council/acts#wiki_council_act_6.2))
-- Players who have been inactive the longest are first in line for dereliction. ([Law](https://www.reddit.com/r/CivYoahtl/wiki/council/acts#wiki_council_act_6.2))
+- The Derelictor General cannot delegate dereliction duties. ([Law](/government/council-acts#council-act-6-2))
+- Players who have been inactive the longest are first in line for dereliction. ([Law](/government/council-acts#council-act-6-2))
 - Where a property is fully or partially owned, regulated, or overseen by a Homeowner Association, that Homeowner Association takes first responsibility for dereliction should the occupant(s) go inactive.
 - Occupants and owners should not be informed if and when they're up for dereliction to avoid property hoarding.
 - Stored property from derelicts, such as chested items, must be held in government storage until reclaimed by the owner.

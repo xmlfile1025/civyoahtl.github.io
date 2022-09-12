@@ -28,7 +28,7 @@ _(Repealed via [Council Act 6.1](#council-act-6-1))_
 
 > Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. All towns retain the rights to any developed settlements (excludes farms, roads and other minor infrastructure) in the case of inactivity. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion. Resimere and Pacem retain the rights to all their land in the case of inactivity as per their agreements upon joining Yoahtl.
 
-_(Amended via [Council Act 6.1](#council-act-6.1); Amended via [Council Act 6.4](#council-act-6-4); Amended via [Council Act 9.6](#council-act-9.6); Amended via [Council Act 13.3](#council-act-13.3); Amended via [Council Act 15.2](#council-act-15.2); Amended via Ololtic Proposal 8)_
+_(Amended via [Council Act 6.1](#council-act-6.1); Amended via [Council Act 6.4](#council-act-6-4); Amended via [Council Act 9.6](#council-act-9.6); Amended via [Council Act 13.3](#council-act-13.3); Amended via [Council Act 15.2](#council-act-15.2); Amended via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
 
 ### Council Act 1.5
 
@@ -183,7 +183,7 @@ _(Repealed via [Council Act 9.7](#council-act-9-7))_
 
 > If a person, whose citizenship is suspended, has become active again and has shown the intent to continue to be active then they may request that their citizenship is unsuspended. This request will then be granted by the alcuahtl or a councillor.
 
-_(Amended via [Proposal] Suspended Citizenship Restoration Procedure)_
+_(Amended via [[Proposal] Suspended Citizenship Restoration Procedure](/government/ololtic-proposals#proposal-suspended-citizenship-restoration-procedure))_
 
 ### Council Act 6.8
 
@@ -198,7 +198,7 @@ _(Superceded via [Council Act 10.5](#council-act-10-5))_
 
 > Allow recall elections to be advanced by petition of the Ololtic. If the petition receives more than 50% of the submitted votes from the pervious election, and the Chief Justice finds no evidence of collusion or bad faith, and that the given reason is valid, then a new election will be held. Such petitions ought not to be started by other government officials.
 
-_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via Ololtic Proposal 30)_
+_(Repealed via [Council Act 13.3](#council-act-13-3); Restored via [Council Act 13.8](#council-act-13-8); Amended via [Ololtic Proposal 30](/government/ololtic-proposals#proposal-thirty-passed))_
 
 ### Council Act 8.1
 
@@ -254,7 +254,7 @@ _(Repealed via [Council Act 13.3](#council-act-13-3))_
 > ~~A protectorate is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Citizens of protectorates are considered Yoahtlan residends and ineligible to run for council or vote. A protectorate is required to hold regular elections to elect a Governor to act as the representative of the Yoahtlan State. A governor is considered to be a citizen of Yoahtl and may cast votes on behalf of one-third of the protectorate’s citizens. Protectorates are required to contribute men and materiel during war-time.~~ **The Alcuahtl may appoint a governor to administer the protectorate at their discretion. A vassal is a city or region designated by the Council and under the protection of Yoahtl. An attack on it is an attack on the Empire of Yoahtl. Vassals retain their own governing and legal structure, exempting them from article Article V of the Charter. They must submit to Yoahtlan law in cases involving Yoahtlan citizens, and must adhere to Yoahtlan foreign policy. Vassals are required to contribute men and materiel during war-time. Any group of players wishing to form a town may submit papers of incorporation to the Council of Yoahtl, which are then voted on and the Alcuahtl must sign off. A town may choose to be autonomous, which means that they retain their own legal structure, rights to their land in the event of them going inactive, and government. They also are exempt from participating in warfare unless they choose to contribute. They are, however, unable to vote for the Council and choose their own foreign relations except in the realm of trade. Non-autonomous towns retain the Yoahtlan legal code and can vote for the Council. They also cannot form foreign relations. Existing towns may join Yoahtl as an automatically incorporated town and may choose autonomy at their discretion.**
 > :::
 
-(Superceded via Ololtic Proposal 8)
+(Superceded via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))
 
 ### Council Act 9.7
 
@@ -408,21 +408,21 @@ _(Partly superceded via [Council Act 15.6](#council-act-15-6))_
 
 > Nullify [Council Act 13.3](#council-act-13-3)'s amendments of [Council Act 1.4](#council-act-1-4).
 
-_(Superceded via Ololtic Proposal 8)_
+_(Superceded via [Ololtic Proposal 8](/government/ololtic-proposals#proposal-eight-passed))_
 
 ### Council Act 15.3
 
-> [Proposal 1](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_one_.28passed.29)
+> [Proposal 1](/government/ololtic-proposals#proposal-one-passed)
 
-_(Superceded via Ololtic Proposal 25)_
+_(Superceded via [Ololtic Proposal 25](/government/ololtic-proposals#proposal-twenty-five-passed))_
 
 ### Council Act 15.4
 
-> [Proposal 2](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_two_.28passed.29)
+> [Proposal 2](/government/ololtic-proposals#proposal-two-passed)
 
 ### Council Act 15.5
 
-> [Proposal 4](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_four_.28passed.29)
+> [Proposal 4](/government/ololtic-proposals#proposal-four-passed)
 
 ### Council Act 15.6
 
@@ -490,21 +490,21 @@ _(Repealed via Article 2.9 of [Merger with Vinland](/constitution/treaties#merge
 
 ### Council Act 16.5
 
-> [Proposal 5](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_five_.28passed.29)
+> [Proposal 5](/government/ololtic-proposals#proposal-five-passed)
 
 ### Council Act 16.6
 
-> [Proposal 8](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eight_.28passed.29)
+> [Proposal 8](/government/ololtic-proposals#proposal-one-passed)
 
 ### Council Act 16.7
 
-> ~~[Proposal 11](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eleven_.28passed.29)~~
+> ~~[Proposal 11](/government/ololtic-proposals#proposal-eleven-passed)~~
 
-_(Superceded via Ololtic Proposal 27)_
+_(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
 ### Council Act 16.8
 
-> [Proposal 14](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_eleven_.28passed.29)
+> [Proposal 14](/government/ololtic-proposals#proposal-fourteen-passed)
 
 ## Decisions of the Eleventh Council - October 14th, 2019 to December 14th, 2019
 
@@ -514,13 +514,13 @@ _(Superceded via Ololtic Proposal 27)_
 
 ### Council Act 17.2
 
-> ~~[Proposal 20](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_.28passed.29)~~
+> ~~[Proposal 20](/government/ololtic-proposals#proposal-twenty-passed)~~
 
-_(Superceded via Ololtic Proposal 27)_
+_(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
 ### Council Act 17.3
 
-> Resolved the Okashiman Government Crisis with the passing of [Proposal 21](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_one_.28passed.29).
+> Resolved the Okashiman Government Crisis with the passing of [Proposal 21](/government/ololtic-proposals#proposal-twenty-one-passed).
 
 ## Decisions of the Twelfth Council - December 14th, 2019 to February 14th, 2020
 
@@ -536,9 +536,9 @@ _(Superceded via Ololtic Proposal 27)_
 
 ### Council Act 19.1
 
-> [Proposal 25](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_five_.28passed.29)
+> [Proposal 25](/government/ololtic-proposals#proposal-twenty-five-passed)
 
-_(Superceded via Ololtic Proposal 27)_
+_(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
 ### Council Act 19.2
 
@@ -550,15 +550,15 @@ _(Superceded via Ololtic Proposal 27)_
 
 ### Council Act 19.4
 
-> [Proposal 26](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_six_.28passed.29)
+> [Proposal 26](/government/ololtic-proposals#proposal-twenty-six-passed)
 
-_(Superceded via Ololtic Proposal 27)_
+_(Superceded via [Ololtic Proposal 27](/government/ololtic-proposals#proposal-twenty-seven-passed))_
 
 ## Decisions of the Fourteenth Council - June 15th, 2020 to August 21st, 2020
 
 ### Council Act 20.1
 
-> [Proposal 29](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_proposal_twenty_nine_.28passed.29)
+> [Proposal 29](/government/ololtic-proposals#proposal-twenty-nine-passed)
 
 ## Decisions of the Fifteenth Council - August 21st, 2020 to October 21st, 2020
 
@@ -626,11 +626,11 @@ _(Retired via [Council Act 24.2](#council-act-24-2))_
 > - smallfry834618
 > - Zeus_95
 
-Schedule 1: Recount [[Proposal] Clarify the legislative powers of the Council](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_clarify_the_legislative_powers_of_the_council) (still fails)
+Schedule 1: Recount [[Proposal] Clarify the legislative powers of the Council](/government/ololtic-proposals#proposal-clarify-the-legislative-powers-of-the-council) (still fails)
 
-Schedule 2: Recount [[Proposal] The Purgatory Period](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_the_purgatory_period) (still passes)
+Schedule 2: Recount [[Proposal] The Purgatory Period](/government/ololtic-proposals#proposal-the-purgatory-period) (still passes)
 
-Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (Reattempt)](https://www.reddit.com/r/CivYoahtl/wiki/ololtic/proposals#wiki_.5Bproposal.5D_clarify_the_legislative_powers_of_the_council_.28reattempt.29) (now passes)
+Schedule 3: Recount [[Proposal] Clarify the legislative powers of the Council (Reattempt)](/government/ololtic-proposals#proposal-clarify-the-legislative-powers-of-the-council-reattempt) (now passes)
 
 ### Council Act 24.2
 

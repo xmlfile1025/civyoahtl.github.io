@@ -155,7 +155,7 @@ export default defineConfig({
           items: [
             {
               text: "Preposals",
-              link: "/government/olotic-preposals",
+              link: "/government/ololtic-proposals",
             },
           ],
         },
