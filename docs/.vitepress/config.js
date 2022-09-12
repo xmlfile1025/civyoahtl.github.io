@@ -126,6 +126,10 @@ export default defineConfig({
               link: "/government/introduction",
             },
             {
+              text: "Officials",
+              link: "/government/officials",
+            },
+            {
               text: "Procedures",
               link: "/government/procedures",
             },
