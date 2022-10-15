@@ -22,28 +22,18 @@ const members = [
     title: 'Cheiftain, Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/518133521517248530/b37e7ea1394e5e78d159f0c984d358b4.webp',
-    name: "KingOfTheMochas",
+    avatar: 'https://cdn.discordapp.com/avatars/199409362781863936/62628d74b1128840ba066e1a5db4aff3.webp',
+    name: "Yergo",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/168410986032660480/e7caf01b23fa2e4a5ea83377e2a8c8b8.webp',
-    name: "Klari Stone",
+    avatar: 'https://cdn.discordapp.com/avatars/547001895458177044/e782048f1dc2ea7800e46d86bd1a1e16.webp',
+    name: "Vilyanz",
     title: 'Councillor',
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/168746386320261120/d4ec08b4baa5421ebb118a6f3d647fd4.webp',
     name: "Solitaire7",
-    title: 'Councillor',
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/avatars/314198862560493569/aeadded1e4be9857a5aa0db265d00056.webp',
-    name: "Feathery Stone",
-    title: 'Councillor, Auditor',
-  },
-  {
-    avatar: 'https://cdn.discordapp.com/avatars/175739715243343873/15b26c2db14c31de96891a1d77eba764.webp',
-    name: "Scouter9001",
     title: 'Councillor',
   },
   {
