@@ -180,8 +180,8 @@ export default defineConfig({
           collapsed: true,
           items: [
             {
-              text: "Docs Introduction",
-              link: "/government/documents/docs-intro",
+              text: "Introduction",
+              link: "/government/documents/introduction",
             },
             {
               text: "Yoahtl Crimes Act",
