@@ -69,7 +69,13 @@ export default defineConfig({
       { text: "Culture & History", link: "/culture/index" },
       { text: "Constitution", link: "/constitution/charter" },
       { text: "Government", link: "/government/introduction" },
-      { text: "Misc", items: [{ text: "Dead Letters", link: "/deadLetters" }] },
+      {
+        text: "Misc",
+        items: [
+          { text: "Dead Letters", link: "/deadLetters" },
+          { text: "Edit Guide", link: "/editGuide" },
+        ],
+      },
     ],
     socialLinks: [
       {
