@@ -16,5 +16,7 @@
     "vite-plugin-pwa": "^0.13.1",
     "vitepress": "^1.0.0-alpha.21",
     "vue": "^3.2.41"
+    "markdown-it": "^13.0.1",
+    "vitepress-plugin-search": "^1.0.4-alpha.11",
   }
 }
