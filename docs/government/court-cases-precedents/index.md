@@ -54,3 +54,8 @@ Precedents:
 - No matter the charges, unless you are being directly attacked or the town is being griefed, or it is a hostile foreigner, no player other than Councillors or the Alcuahtl or any person occupying a position of authority to pearl legally authorized by the Council and Alcuahtl may pearl people.
 
 - If people plead guilty you retain the rights of a citizen unless the Judge explicitly denies them to you as a result of your actions.
+
+## [1machinemaker1 v. Yoahtl, Nov 2017](/government/court-cases-precedents/1machinemaker1_v_yoahtl_nov_2017)
+Precedents:
+
+- The Alcuahtl cannot deny an appeal outright, only uphold the decision of the court or come to a new verdict.
