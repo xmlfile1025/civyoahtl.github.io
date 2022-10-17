@@ -61,8 +61,6 @@ Precedents:
 - The Alcuahtl cannot deny an appeal outright, only uphold the decision of the court or come to a new verdict.
 
 ## [Yoahtl v. TheOrangeWizard (and 14uu), Nov 2017](/government/court-cases-precedents/yoahtl_v_theorangewizard_(and_14uu)_nov_2017)
-<<<<<<< Updated upstream
-=======
 
 ## [meat312 v. daddy1015, Nov 2017](government/court-cases-precedents/meat312_v_daddy1015_nov_2017)
 
@@ -80,7 +78,3 @@ Precedents:
 - Vote buying is deemed illegitimate campaigning.
 
 ## [Klasikrok v. TheOrangeWizard, Dec 2017](government/court-cases-precedents/klasikrok_v_theorangewizard_dec_2017)
->>>>>>> Stashed changes
-
-
-## [Yoahtl v. TheOrangeWizard (and 14uu), Nov 2017](/government/court-cases-precedents/yoahtl_v_theorangewizard_(and_14uu)_nov_2017)
