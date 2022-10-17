@@ -16,7 +16,7 @@ With ArowShot presiding, on 1st October 2017, without any official charges order
 
 > i gib his stuff back  
 > he kills me
-> \>i ask for my stuff back
+> >i ask for my stuff back
 
 **ArowShot**:
 

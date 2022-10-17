@@ -59,3 +59,5 @@ Precedents:
 Precedents:
 
 - The Alcuahtl cannot deny an appeal outright, only uphold the decision of the court or come to a new verdict.
+
+## [Yoahtl v. TheOrangeWizard (and 14uu), Nov 2017](/government/court-cases-precedents/yoahtl_v_theorangewizard_(and_14uu)_nov_2017)
