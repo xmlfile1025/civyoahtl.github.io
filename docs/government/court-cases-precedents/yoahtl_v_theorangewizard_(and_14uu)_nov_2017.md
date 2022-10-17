@@ -15,8 +15,8 @@
 > 1. Businesses
 > 2. Dereliction rules apply to them
 > 3. 14uu hasn't produced products for sale from his grinder in weeks
-
- -bgbba
+>
+> -bgbba
 
 .
 
