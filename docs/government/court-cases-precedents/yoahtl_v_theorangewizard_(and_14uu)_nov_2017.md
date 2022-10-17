@@ -29,4 +29,4 @@ People question what the definition of 'abuse' is.
  bgbba says the council is the only body which can define 'abuse'
 
 ## Outcome
-> Dereliction law redefined, bgbba's dereliction overturned.
+Dereliction law redefined, bgbba's dereliction overturned.

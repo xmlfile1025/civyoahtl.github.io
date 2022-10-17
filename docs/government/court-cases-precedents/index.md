@@ -81,3 +81,6 @@ Precedents:
 
 ## [Klasikrok v. TheOrangeWizard, Dec 2017](government/court-cases-precedents/klasikrok_v_theorangewizard_dec_2017)
 >>>>>>> Stashed changes
+
+
+## [Yoahtl v. TheOrangeWizard (and 14uu), Nov 2017](/government/court-cases-precedents/yoahtl_v_theorangewizard_(and_14uu)_nov_2017)
