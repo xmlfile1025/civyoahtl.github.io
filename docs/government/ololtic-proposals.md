@@ -238,6 +238,8 @@ Proposer: SpaceVolcano, Seconded By: Charlieseeese, Date: 8th February 2020
 
 Proposal failed: 3 Ayes, 3 Nays, No Abstentions
 
+_([Archive of Google Doc](/storage/proposals/Proposal-Twenty-Three.pdf))_
+
 ## Proposal Twenty Four (Failed)
 
 Proposer: bgbba, Seconded By: Okx, Date: 14th February 2020
@@ -362,6 +364,8 @@ Proposer: NevermoreGrim, Seconded By: Sventhar, Date: 23rd December 2020
 
 **Proposal status**: UNKNOWN
 
+_([Archive of Photo](/storage/proposals/Keep-plot-non-residential.png))_
+
 ## [Proposal] Recategorise the Council as the legislature
 
 Proposer: Aki, Seconded By: Oddish and XC, Date: 7th April 2021
@@ -407,6 +411,8 @@ Proposer: GDAN, Seconded By: SpaceVolcano, Date: 12th June 2021
 > Give this tree protected status as one of the last natural palm trees on the server https://cdn.discordapp.com/attachments/447528416422658058/853393304682496000/unknown.png
 
 **Proposal status**: UNKNOWN
+
+_([Archive of Photo](/storage/proposals/Protect-palm-tree.png))_
 
 ## [Proposal] Allow unrestricted NYC renting
 
