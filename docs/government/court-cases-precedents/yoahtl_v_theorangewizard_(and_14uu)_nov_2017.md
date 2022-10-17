@@ -21,8 +21,8 @@
 .
 
 > I believe that while derelicting functional grinders is unfair, the government is fully within its rights under the dereliction act to do so. Because discretion is the determining factor and abuse is undefined, I cannot see that 14uu and I have any legal defense against bgbba if he wishes to derelict our property and claim it for the state.
-
- -TheOrangeWizard
+>
+> -TheOrangeWizard
 
 People question what the definition of 'abuse' is.
 
