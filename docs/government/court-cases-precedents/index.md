@@ -78,3 +78,34 @@ Precedents:
 - Vote buying is deemed illegitimate campaigning.
 
 ## [Klasikrok v. TheOrangeWizard, Dec 2017](government/court-cases-precedents/klasikrok_v_theorangewizard_dec_2017)
+
+
+## [Seekinq v. iOminous, Jan 2018](government/court-cases-precedents/seekinq_v_iominous_jan2018)
+
+Precedents:
+
+- Where a misrepresentation occurs in a disputed transaction, the terms may be adjusted to be as reasonable as possible but still must be within the scope of the original agreement.
+
+## [TheOrangeWizard (and Amerikkalanein) v. AltRaid, Jan 2018](government/court-cases-precedents/theorangewizard_(and_amerikkalanein)_v_altraid_jan_2018)
+
+Precedents:
+
+- Raid drills are not permitted unless authorised by the Alcuahtl, who must be aware of specific details. Ideally the populace is notified and informed, however this is not strictly required.
+
+- Precedent set as a result from a court case MUST take priority over Council or Alcuahtl decisions, especially informal decisions that are not voted-in Council Law. This is consistent with “Council 5.3 What is criminal is established primarily through the arbitration of disputes by the courts, and secondarily through specific lines of Council Law.”
+
+## [Yoahtl v. iOminous, Jan 2018](government/court-cases-precedents/yoahtl_v_iominous_jan_2018)
+
+## [TheOrangeWizard v. ArowShot, Jan 2018](government/court-cases-precedents/theorangewizard_v_arowshot_jan_2018)
+
+## [bgbba v. Squareblob, Apr 2018](government/court-cases-precedents/bgbba_v_squareblob_apr_2018)
+Precedents:
+
+- There is no restriction on the Derelictor General's ability to derelict based on the property owner's resident or citizenship status.
+
+## [Oddish (and GDAN) v. 5point0, Apr 2018](government/court-cases-precedents/oddish_(and_gdan)_v_5point0_apr_2018)
+
+Precedents:
+
+- ~~Defendants that refuse to choose a justice will be subject to a Bench Trial.~~
+
