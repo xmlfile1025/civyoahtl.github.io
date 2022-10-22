@@ -109,3 +109,43 @@ Precedents:
 
 - ~~Defendants that refuse to choose a justice will be subject to a Bench Trial.~~
 
+## [TheOrangeWizard v. Quauhtli'n'Mia, Apr 2018](government/court-cases-precedents/theorangewizard_v_quauhtli_n_mia_apr_2018)
+Precedents:
+
+- Newcomers must receive Government approval prior to receiving residence and any citizens who give newcomers an apartment without prior Government approval will be punished with 90 minutes of manual labour.
+
+## [Dr_Oracle v. TheOrangeWizard, May 2018](dgovernment/court-cases-precedents/dr_oracle_v_theorangewizard_may_2018)
+Precedents:
+
+- Citizenship is revoked on grounds of unexplained inactivity or inactivity with insufficient explanation.
+- Improperly revoked citizenship must be restored.
+
+## [Orinnari v. Wee786Harry, Jun 2018](government/court-cases-precedents/orinnari_v_wee786harry_jun_2018)
+
+## [Wee786Harry v. Wingzero54, Jun 2018](government/court-cases-precedents/wee786harry_v_wingzero54_jun_2018)
+
+## [gbrb v. bgbba, Jun 2018](government/court-cases-precedents/gbrb_v_bgbba_jun_2018)
+
+## [meat312 v. TheOrangeWizard, Jun 2018](government/court-cases-precedents/meat312_v_theorangewizard_jun_2018)
+
+## [Wee786Harry v. lil_wayne, Jun 2018](government/court-cases-precedents/wee786harry_v_lil_wayne_jun_2018)
+
+## [meat312 v. Wee786Harry, Jun 2018](government/court-cases-precedents/meat312_v_wee786harry_jun_2018)
+
+## [TheOrangeWizard v. Quauhtli'n'Mia, Jul 2018](government/court-cases-precedents/theorangewizard_v_quauhtli_n_mia_jul_2018)
+
+Precedents:
+
+- In cases of stolen items, reparations shall only be granted on appeal if the goods have not been returned as ordered.
+
+- Whether the killed player had their bed set should be considered with regards to the reasonableness of the murder.
+
+## [Judges v. bgbba, Aug 2018](government/court-cases-precedents/judges_v_bgbba_aug_2018)
+
+## [bgbba v. TheOrangeWizard, Dec 2018](government/court-cases-precedents/bgbba_v_theorangewizard_dec_2018)
+
+Precedents:
+
+- Limiting channel capacity, deleting channels, and banning specific citizens without just cause and consulting the rest of the Government (in cases where the action is not necessary as part of an emergency situation) will be considered a major violation of Article 1 of the Yoahtlan Bill of Rights. Should this occur by a Government member without appropriate permission, harsh penalties may be levied including (but not limited to) judicial review of the position holder's fitness for office.
+
+## [Dill_Weasel v. TheOrangeWizard, Dec 2018](government/court-cases-precedents/dill_weasel_v_theorangewizard_dec_2018)
