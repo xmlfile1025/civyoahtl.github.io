@@ -149,3 +149,71 @@ Precedents:
 - Limiting channel capacity, deleting channels, and banning specific citizens without just cause and consulting the rest of the Government (in cases where the action is not necessary as part of an emergency situation) will be considered a major violation of Article 1 of the Yoahtlan Bill of Rights. Should this occur by a Government member without appropriate permission, harsh penalties may be levied including (but not limited to) judicial review of the position holder's fitness for office.
 
 ## [Dill_Weasel v. TheOrangeWizard, Dec 2018](government/court-cases-precedents/dill_weasel_v_theorangewizard_dec_2018)
+
+## [Aki v. Sventhar, Oct 2019](government/court-cases-precedents/aki_v_sventhar_oct_2019)
+Precedents:
+
+- **(The Appellate Decision Article 2)** The court has found it necessary to define two types of Harassment, In-Game Harassment (abv. IGH) and On-Discord Harassment (abv. ODH).
+
+    -  **(A)** In-Game Harassment shall be defined as:
+
+        Any actions taken within game towards another player that may cause emotional distress, actions that are directed with mal-intent, actions taken in retribution towards another player in a repeated manner, actions that may exclude players from the community due to racial, gender, sexual or other personal matters directed at individuals, and any other actions deemed offensive by the council either by consensus or law.
+
+        Examples of IGH would include:
+
+        -  Saying or placing signs in game using slurs, repeated offensive name calling: e.g. racial slurs, homophobic sayings.
+
+        - Repeatedly targeting players using actions that may be tiresome or annoying: e.g. nonstop snowball throwing, punching other players without the intent of murder.
+
+        - Defacing others property
+        - e.g. non-damaging grief
+        - As well as any other actions deemed offensive by the council either by consensus or law.
+    - **(B)** On-discord Harassment shall be defined as:
+
+        Any actions taken within game towards another player that may cause emotional distress, actions that are directed with mal-intent, actions taken in retribution towards another player in a repeated manner, actions that may exclude players from the community due to racial, gender, sexual or other personal matters directed at individuals, threatening direct messages, repeated spam, repeated bait-posting, harmful trolling, and repeated inconsiderate memeing. As well as any other actions deemed offensive by the council either by consensus or law.
+
+        Examples of ODH would include:
+
+        - Unessasscary name calling involving slurs or inappropriate language, e.g. Racial slurs directed at individuals
+
+        - Spamming the discord with repeated messages or images directed to cause distress to individuals or the community, e.g. posting images multiple times of inappropriate material
+
+        - The posting of certain material with or without intent that may elicit a negative emotional response. e.g. baiting an individual of a known trait to reply to a message in a manner that the individual finds he must “defend” his beliefs
+
+        - Repeated Direct messages of a threatening nature involving in-game actions, e.g. blackmail, or leverage threats
+
+        - As well as any other actions deemed offensive by the council either by consensus or law.
+
+- **(The Appellate Decision Article 3)** The severity of harmful repeated actions shall be broken into three categories listed from least severe to most severe.
+
+    - **(1)** Incidental Harassment: The least severe act of Harassment: any actions where the acting individual repeatedly creates acts that another player finds to be in a harassing manner, and the acting individual may not realize the acts to be in a harassing manner.
+
+    - **(2)** Minor Harassment: A moderate act of Harassment by an acting individual that causes distress to an individual, and the acting individual continues to repeat actions even after being repeatedly told to cease and desist harassing actions by the harassed individual or others.
+
+    - **(3)** Major Harassment: A severe act of Harassment by an acting individual done in a cruel and intentional manner done; with the intent of forcing someone to leave the community via means of repeated harassing acts, with the intent to cause someone great emotional distress, and/or with the intent of immense communal disruption.
+
+- **(The Appellate Decision Article 4)** Punishments for the act of Harassment
+
+    Punishments for the acts of harassment shall be based upon the severity of the act and issued upon precedent or manner befitting the severity of the act.
+
+    - **(Ruling 1)** The court finds that expressions that are harassing in nature as defined in [The Appellate Decision Article 2] may not be considered freedom of expression.
+
+    - **(Ruling 2)** The court finds that membership of the discord platform is non-essential to membership of the in-game community.
+
+## [iOminous v. Yoahtl, Oct 2019](government/court-cases-precedents/iominous_v_yoahtl_oct_2019)
+Precedents:
+
+- If an injunction is filed against somebody’s eligibility for council, they will be investigated and thus removed from the pool if found in breach of our laws and customs on the grounds of citizenship, positions of foreign offices, and non-primary residency for dual citizens, and questions about character and motives.
+
+## [Orinnari v. Aki, Feb 2020](government/court-cases-precedents/orinnari_v_aki_feb_2020)
+Precedents:
+
+- Abuses of Government Power ought to result in immediate removal from Government office.
+- One's citizenship may be temporarily suspended to ensure the fulfilment of a court sentence.
+
+## [Aivius v. Charlieseeese, Dec 2020](government/court-cases-precedents/aivius_v_charlieseeese_dec_2020)
+
+Precedents:
+
+- Yoahtlans concertedly attempting to recruit other Yoahtlans to foreign nations is to be considered harassment.
+
