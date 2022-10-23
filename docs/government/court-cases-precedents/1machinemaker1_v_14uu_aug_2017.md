@@ -37,20 +37,20 @@ With ArowShot presiding, on 1st October 2017, without any official charges order
 > > gives 2 hits with a d sword for fun which kill not even an unarmored  
 > > he tries to kill me
 >
-> \>i fight back
+> >i fight back
 >
 > > i run  
 > > i die
 >
-> \>i lose my stuff
+> >i lose my stuff
 >
 > > he gives only some of it back  
 > > i ask for the rest  
 > > he still dont give all
 >
-> \>i trie to kill him  
-> \>die again
-
+> >i trie to kill him  
+> >die again
+>
 > > he pearls me then relase keeping ALL my stuff  
 > > i blow him up to get my stuff  
 > > he wasnt with it  
