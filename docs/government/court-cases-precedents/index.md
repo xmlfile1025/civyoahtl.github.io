@@ -258,10 +258,7 @@ Precedents:
 
 ## [Yoahtl v. Okx, Nov 2021](/government/court-cases-precedents/yoahtl_v_okx_nov_2021)
 
-<<<<<<< Updated upstream
-## [Supremacy Clarification, Jan 2022]()
-=======
-## [Supremacy Clarification, Jan 2022](\government\court-cases-precedents\supremacy_clarification_jan_2022) heres the doc 
 
-test supremcy clarifation
->>>>>>> Stashed changes
+## [Supremacy Clarification, Jan 2022](/government/court-cases-precedents/supremacy_clarification_jan_2022) 
+
+
