@@ -224,3 +224,38 @@ Precedents:
 Precedents:
 
 - Yoahtlans concertedly attempting to recruit other Yoahtlans to foreign nations is to be considered harassment.
+
+## [Yoahtl v. TheOrangeWizard, Apr 2021](/government/court-cases-precedents/yoahtl_v_theorangewizard_apr_2021)
+
+Precedents:
+
+- Time spent pearled prior to and during the trial can be considered time served if the sentence includes pearl time.
+
+## [GDAN v. Miller, May 2021](/government/court-cases-precedents/gdan_v_miller_may_2021)
+
+## [Okx v. spokey_dokey, Jun 2021](/government/court-cases-precedents/okx_v_spokey_dokey_jun_2021)
+
+## [Aki v. Shygdsamkd, Jun 2021](/government/court-cases-precedents/aki_v_shygdsamkd_jun_2021)
+
+Precedents:
+
+- Time spent pearled during proceedings will not count as time served if the defendant is causing significant and deliberate delay.
+
+## [Yoahtl v. NeoTide, Sep 2021](/government/court-cases-precedents/yoahtl_v_neotide_sep_2021)
+
+## [Yoahtl v. Okx, Oct 2021](/government/court-cases-precedents/yoahtl_v_okx_oct_2021)
+
+Precedents:
+
+- Secessions of unincorporated places do not violate Council Act 1.4.
+- Incidental pearlings do not violate the relevant Yoahtl v. Link2006, Nov 2017 precedent.
+
+## [GDAN v. Minemaster, Oct 2021](/government/court-cases-precedents/gdan_v_minemaster_oct_2021)
+
+Precedents:
+
+- Pearl time can substitute grief-cleanup if it has already been cleaned up by someone else.
+
+## [Yoahtl v. Okx, Nov 2021](/government/court-cases-precedents/yoahtl_v_okx_nov_2021)
+
+## [Supremacy Clarification, Jan 2022]()
