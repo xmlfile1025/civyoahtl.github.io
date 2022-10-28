@@ -546,13 +546,13 @@ With GDAN presiding, on 15th June 2021, Okx charged spokey_dokey with Attempted 
 
 >>[13Jun2021 01:32:30.873] [CHAT] You have engaged in combat with spokey_dokey. Type /ct to check your timer.
 
->>[13Jun2021 01:32:33.719] [CHAT] <spokey_dokey> hi im new to server
+>>[13Jun2021 01:32:33.719] [CHAT] \<spokey_dokey> hi im new to server
 
 >>[13Jun2021 01:32:33.793] [CHAT] TheSenateSpeaker has left the game
 
 >>[13Jun2021 01:32:45.572] [CHAT] [!] InvertedMind: but people use alts to bot and be in multiple places at once alot
 
->>[13Jun2021 01:32:50.270] [CHAT] <saddder> what have you been doing here
+>>[13Jun2021 01:32:50.270] [CHAT] \<saddder> what have you been doing here
 [13Jun2021 01:32:50.439] ist/]: Loaded 243 advancements
 
 >>[13Jun2021 01:32:51.027] [CHAT] You are no longer in combat.
@@ -565,17 +565,17 @@ With GDAN presiding, on 15th June 2021, Okx charged spokey_dokey with Attempted 
 
 >>[13Jun2021 01:33:08.754] [CHAT] Unknown command. Type "/help" for help.
 
->>[13Jun2021 01:33:11.359] [CHAT] <spokey_dokey> exploring
+>>[13Jun2021 01:33:11.359] [CHAT] \<spokey_dokey> exploring
 
 >>[13Jun2021 01:33:11.991] [CHAT] [!] notebIock: is that bannable?
 
 >>[13Jun2021 01:33:13.575] [CHAT] You are no longer in combat.
 
->>[13Jun2021 01:33:18.346] [CHAT] <spokey_dokey> ill leave now
+>>[13Jun2021 01:33:18.346] [CHAT] \<spokey_dokey> ill leave now
 
->>[13Jun2021 01:33:21.517] [CHAT] <Gobblin> i
+>>[13Jun2021 01:33:21.517] [CHAT] \<Gobblin> i
 
->>[13Jun2021 01:33:22.747] [CHAT] <Gobblin> hi
+>>[13Jun2021 01:33:22.747] [CHAT] \<Gobblin> hi
 
 >>[13Jun2021 01:33:24.850] [CHAT] You do not own any snitches nearby or lack permission to view their logs!
 
@@ -589,7 +589,7 @@ With GDAN presiding, on 15th June 2021, Okx charged spokey_dokey with Attempted 
 
 >>[13Jun2021 01:33:31.889] [CHAT] You have engaged in combat with spokey_dokey. Type /ct to check your timer.
 
->>[13Jun2021 01:33:34.355] [CHAT] <saddder> what is this?
+>>[13Jun2021 01:33:34.355] [CHAT] \<saddder> what is this?
 
 >>[13Jun2021 01:33:35.454] [CHAT] [!] InvertedMind: bots are allowed, with some restrictions
 
@@ -605,23 +605,23 @@ With GDAN presiding, on 15th June 2021, Okx charged spokey_dokey with Attempted 
 
 >>[13Jun2021 01:33:52.457] [CHAT] You have engaged in combat with spokey_dokey. Type /ct to check your timer.
 
->>[13Jun2021 01:33:55.075] [CHAT] <spokey_dokey> hey
+>>[13Jun2021 01:33:55.075] [CHAT] \<spokey_dokey> hey
 
 >>[13Jun2021 01:33:56.140] [CHAT] ObtainableSpat has joined the game
 
->>[13Jun2021 01:33:56.263] [CHAT] <saddder> where did yuo get those tools from
+>>[13Jun2021 01:33:56.263] [CHAT] \<saddder> where did yuo get those tools from
 
->>[13Jun2021 01:33:57.250] [CHAT] <spokey_dokey> stop hitting me :(
+>>[13Jun2021 01:33:57.250] [CHAT] \<spokey_dokey> stop hitting me :(
 
->>[13Jun2021 01:34:01.330] [CHAT] <spokey_dokey> theyre mine
+>>[13Jun2021 01:34:01.330] [CHAT] \<spokey_dokey> theyre mine
 
 >>[13Jun2021 01:34:03.802] ist/]: Loaded 243 advancements
 
 >>[13Jun2021 01:34:09.788] [CHAT] To spokey_dokey: when did yuo join
 
->>[13Jun2021 01:34:16.719] [CHAT] <spokey_dokey> 4 days ago
+>>[13Jun2021 01:34:16.719] [CHAT] \<spokey_dokey> 4 days ago
 
->>[13Jun2021 01:34:22.100] [CHAT] <saddder> so how did you get those
+>>[13Jun2021 01:34:22.100] [CHAT] \<saddder> so how did you get those
 
 >>[13Jun2021 01:34:24.552] [CHAT] ahme63 has left the game
 

@@ -6,7 +6,7 @@ layout: page
 import {
   VPTeamPage,
   VPTeamPageTitle,
-  VPTeamMembers
+  VPTeamMembers,
 } from 'vitepress/theme'
 
 const members = [
