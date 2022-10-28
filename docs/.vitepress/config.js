@@ -145,6 +145,10 @@ export default defineConfig({
               text: "Conventions",
               link: "/government/conventions",
             },
+            {
+              text: "Goverment History",
+              link: "/government/government-composition-history",
+            },
           ],
         },
         {
