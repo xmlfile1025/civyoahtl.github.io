@@ -2952,20 +2952,10 @@ vite@^3.1.6:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitepress-plugin-search@^1.0.4-alpha.11:
-  version "1.0.4-alpha.11"
-  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.11.tgz#419ea48427cd836b97e9f94a4a806b8352c8e7b1"
-  integrity sha512-fKJIpPj6QGQeXda31Dx5f9DtCYnPVHKQVsOUpnJOzahWHPPgGofslwwvwaeRMWIGvpslxi/m4RVK6C+ydqKukA==
-  dependencies:
-    "@docsearch/css" "^3.2.1"
-    "@docsearch/js" "^3.2.1"
-    "@vitejs/plugin-vue" "^3.1.2"
-    "@vue/devtools-api" "^6.4.4"
-    "@vueuse/core" "^9.3.0"
-    body-scroll-lock "4.0.0-beta.0"
-    shiki "^0.11.1"
-    vite "^3.1.6"
-    vue "^3.2.40"
+vitepress-plugin-search@^1.0.4-alpha.14:
+  version "1.0.4-alpha.14"
+  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.14.tgz#123742dd1c3d8bdb1d70ccc54f60816951e09110"
+  integrity sha512-PvHdsv4DN4SNfbfMN2IFp6vNKLXqEVpZpvkFi5zyEdTn0nb2HtaNuAtwSeSz7gWOMZwzLQ/ncHQ0Ka5beHgASQ==
 
 vitepress@^1.0.0-alpha.22:
   version "1.0.0-alpha.22"
