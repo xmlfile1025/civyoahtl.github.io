@@ -1,4 +1,4 @@
-# Olotic Preposals
+# Olotic Proposals
 
 _(Proposals that failed or were withdrawn are hidden by spoiler text; Proposals that passed but have been superceded are crossed out.)_
 
@@ -754,3 +754,291 @@ Proposer: GDAN, Seconded By: Mokotowskie, Date: 26th April 2022
 > For context precedentially activity has been defined as activity within/for Yoahtl. And to be considered active you usually need to have played for at least a few days to a week. So it would probably be expected that someone would need to meet these requirements by precedent to be considered active again.
 
 **Proposal passed**: 16 Ayes, No Nays, 2 Abstentions
+
+## [Proposal] Codifying Citizen Votes
+
+Proser: Solitaire, Seconded By: Aki, Date: May 5th, 2022
+
+> Article IV
+
+> 4. Affirming new citizens to the ololtic will abide by the following procedure:
+
+> a. Residents of Yoahtl proper may submit a request to become a member of the ololtic at any time.
+
+>b. A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request.
+
+>c. Once the 48 hour period has passed if the request has received ayes from greater than half the ololtic then it passes.
+
+>Context: The proposal updated the charter on how people were being added to the Ololtic
+
+**Proposal passed**: 18 Ayes, No Nays, No Abstains
+
+## [Proposal] Amendment to Council Acts 5.1 & 5.2
+
+Propser: Solitaire, Seconded By: Aki, Date: May 6th, 2022
+
+**Council Act 5.1**
+>All undeveloped and derelict property is owned by the Government. Plots/land are to be distributed solely by Government members, for free or a fee as deemed necessary. Property transactions between private parties must have prior approval from the Government.
+
+**Council Act 5.2**
+>Construction outside the city walls requires pre-approval from a government member. This rule does not apply to non-autonomous towns.
+
+**Changes to one Council Act reading:**
+
+>All undeveloped and derelict property/land within Yoahtl proper is owned by the government. When transferring ownership of plots/land between the government and another party a majority vote of the council is required to approve the transfer. Transferences of plots/land between two private parties must also be approved similarly.
+
+>Construction on government owned land requires approval of the government, whether ownership of the land is being transferred or not.
+
+**Proposal Passed**: 16 Ayes, 1 Nays, 1 Abstain
+
+## [Proposal] Chieftan Discord Ownership
+
+Proposer: Aki, Seconded By: Mechanical, Date: June 8th 2022
+
+**Aki**:
+> Pursuant to the chieftains job as the curator, guide and representative of the ololtic, I believe the discord should be under the ownership of the chieftan. Currently it’s owned by the office of the alcuahtl, but the role of chieftan better fits the responsibilities of discord ownership
+
+**Proposal failed**: 9 Ayes, 7 Nays, 0 Abstains
+
+## [Proposal] High Justice Discord Ownership
+
+Proposer: Solitaire, Seconded By: Mechanical, Date: June 10th, 2022
+
+**Solitaire**:
+>pass discord ownership to the High justice. It is an elected position that is also long term. Therefore there is both stability and accountability in the high justice being the owner of the discord.
+
+**Proposal failed**: 3 Ayes 8 Nays 1 Abstians
+
+## [Proposal] Ranked Choice voting in Interm Elections
+
+Proposer: Tigen, Seconded By: Bgbba, Date: June 13th, 2022
+
+**Tigen**:
+>to mitigate concerns over spoiler candidacies, ranked-choice voting will be used in future elections where only one office is in contest (ie interim council elections).
+
+>Note that, as it is already ongoing, this will not affect the current election one way or the other.
+
+**Proposal failed**: 5 Ayes, 9 Nays, 0 Abstains
+
+## [Proposal] Repeal the House of Winterbourne Act
+
+Proposer: Mechanical, Seconded by: Soltaire, Date: June 15th, 2022
+
+**Mechanical**:
+>Repeal the House of Winterbourne Act from 12.12.2021
+
+**Proposal failed**: 7 Ayes, 16 nays, 3 Abstians
+
+## [Proposal] Move First "Full" Election to the 1st of July
+
+Proposer: Solitaire, Seconded By: Mocha, Date: June 16th, 2022
+
+**Solitaire**: 
+>Move the first "full" election to the first of July from the date it is currently set to by the Purgatory period proposal. Subsequent elections will occur every 2 months after this one.
+
+**Proposal Passed**: 29 Ayes, 1 Nay, 3 Abstains
+
+## [Proposal] Ban Hotmic'ing
+
+Proposer: Orin, Seconded by Bgbba, Date: June 24th, 2022
+
+**Orin**:
+>Disable the "Use Voice Activity" permission for @everyone on all non-government voice chats. Enough is enough. It's time we stop voice chats from being continually disrupted by typing, background noise (TVs, music, sirens, chatter), coughing, wind, vaping, snorting, eating, etc. Hot-micing is an ongoing issue and the worst offenders are refusing to self-moderate in any capacity.
+
+**Proposal failed**: 3 Ayes, 18 Nays, 3 Abstains
+
+## [Proposal] Judicial Bench Creation
+
+Proposer: Orin, Seconded by: Bgbba, Date: June 28th, 2022
+
+**Orin**:
+>Create a Judicial Bench. Justices will be appointed to the bench by the Council from among the citizenry. The High Justice shall then select a Justice from the bench when cases arise that would not otherwise be presided by the High Justice. If there are no Justices to select, the High Justice can default to the previous system and select from the Council.
+
+**Proposal failed**: 4 Ayes, 10 Nays, 8 Abstains
+
+## [Proposal] Altepetl Farming Ban
+
+Proposer: Mechanical, Seconded by: Aki, Date: July 3rd, 2022
+
+**Mechanical**:
+>Ban non-government approved farms within the city. Any farms that are currently in the city that have not been already approved will be required to be approved, moved, or slaughtered. The council may approve a farm with a simple majority vote.
+
+**Proposal failed**: Withdrawn
+
+## [Proposal] Altepetl Farming Restrictions
+
+Proposer: Mehcanical, Seconded by Bgbba, Date: July 7th, 2022
+
+**Mechanical**:
+>If there is a farm within Altepetl that is deemed too laggy for clients to play reliably by a Councillor. A Councillor may ask the owner of the farm to move the farm. If it is not moved after a set time by the Councillor who initiated it of at least 48 hours but no more than 504 hours (3 weeks), the Yoahtlan Government may be allowed to remove the farm.  Once upon complete removal the farm, the items and/or mobs will be returned to the owner. But if the owner does not request the items and/or mobs back 2 months after the set time, the items and/or mobs will be owned by the government. 
+
+**Proposal Passed**: 20 Ayes, 5 Nays, 0 Abstains
+
+## [Proposal] DiscordTimerBot is required
+
+Proposer: Orin, Seconded by: Solitaire, Date: July 7th, 2022
+
+**Orin**:
+>Require the addition (or creation) of a Discord bot with a timer feature so the government can create a proposal thread, do /remind 48h and be pinged once that proposal has expired. This way we avoid issues of late votes being counted, or proposal going uncounted.
+
+**Proposal failed**: 7 Ayes, 15 Nays
+
+## [Proposal] Tie Breaking Powers
+
+Proposer Aki, Seconded by: Mocha, Date: July 10th, 2022
+
+**Aki**:
+>Change the charter so that the Alcuahtl is the tiebreaker vote for a council decision rather than the High justice
+
+**Proposal Failed**: 12 Ayes, 9 Nays, 4 Abstains
+
+## [Proposal] Amend Article 2.5.B
+
+Proposer: Orin, Seconded by: Space, Date: July 20th, 2022
+
+**Original**:
+>Councillors may resign at any time, for any reason, so long as they appoint a deputy to fill in for them if needed before an official replacement is elected. An interim election should be held within one week of a resignation to choose an official replacement, who will serve until the end of the current Council term.
+
+**Amendment**:
+>Councillors may resign at any time, for any reason, but are expected to appoint a deputy from among the Ololtic to serve in their stead. Following a resignation, a by-election will be held within seven days to determine their official replacement. Should the resigning Councillor not appoint a deputy, the Alcuahtl shall, on the advice of the Chieftain, appoint a deputy on their behalf.
+
+**Proposal failed**: Withdrawn (New submission of the proposal)
+
+**Amendment Version 2**:
+>the appointment power would not be given to the Chieftain, but to the Alcuahtl who would appoint on the Chieftain's advice. This keeps the Chieftain separate from the political machinery of the Government while also ensuring that the spiritual leader of the community has a say. The timer on this proposal has been reset.
+
+**Proposal failed**: 18 Ayes 1 Nay. Failed to recieve the required 26 votes to pass.
+
+## [Proposal] Vote Against Candidates
+
+Proposer: Orin, Seconded by: Space, Date: July 26th, 2022
+
+**Orin**:
+>Allow citizens to cast votes against candidates in elections.
+
+**Context for not being Amendment**:
+>**Orin**:
+>>This is NOT a Charter Amendment. I hold that this change is within the reasonable interpretation of Article 2.5 of the Charter.
+
+**Proposal failed**: 2 Ayes, 18 Nays, 2 Abstains
+
+## [Proposal] Orinnari Sainthood
+
+Proposer: Space, Seconded by: Bgbba, Date: July 26th, 2022
+
+**Space**:
+>Give Orinarri the Title of Saint of Proposals
+
+**Proposal failed**: 4 Ayes, 14 Nays, 4 Abstains
+
+## [Proposal] Amend Article 2 Section 7
+
+Proposer: Solitaire, Seconded by: Space, Date: August 4th, 2022
+
+**Orignal**:
+>The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.
+
+**Amendment**:
+>To take effect when the next full council election occurs (September 2022):
+
+>The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow councillors.
+
+**Proposal Passed**: 25 Ayes, 1 Nays, 4 Abstains
+
+## [Proposal] Yoahtl Waterway Protection Act
+
+Proposer: Tigers, Seconded by: Mocha, Date: August 9th, 2022
+
+**Tigers**:
+>1)    No rivers or lakes within the borders of Yoahtl shall be covered or terraformed over. Exceptions may be made by majority vote of the Council for beautification or terraforming projects which do not impede river travel.
+
+>2)    No rivers shall be artificially reduced to less than 5 blocks of width.
+
+>3)    Buildings or infrastructure constructed on or above waterways should have a minimal impact and leave a clearance of at least 4 blocks (not including bridge supports or shoreline docks).
+
+>4)    Bridge supports and docks shall be permitted if they do not reduce the traversable portion of a river to less than the 5 blocks of width specified in #2.
+
+>5)    Trees and other flora located along waterways shall not be removed unless required for a public farm or infrastructure project approved by a majority of the Council. 
+
+>6)    Prior constructions and acts involving the removal of trees shall be exempt from this act.
+
+>Remedies: Violations of this act which are not corrected within a week of notification shall result in removal of ownership for the portions of private plots which overlap with waterways. Damages to waterways or waterside flora shall be repaired by the violator until a fitting re-creation is deemed complete. 
+
+**Proposal Passed** 15 Ayes, 1 Nay
+
+## [Proposal] An Act to Increase Transparency and Improve Communication
+
+Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
+
+
+**Bgbba**:
+>- the subreddit shall be defined by law as a public resource accessible by default by citizen and noncitizen alike excluding people banned for misuse of it 
+
+>- the subreddit will be made  public to all by default by law effective immediately on passage of this law
+
+>- the executive decision to make the subreddit private is overturned and considered to be invalid
+
+>- any restoration of restrictions on the subreddit will require a repeal of this law in its entirety 
+
+**Proposal failed**: 4 Ayes, 4 Nays, 8 Abstains
+
+## [Proposal] Charter Amendment: Public Spaces for Dialogue and Community
+
+Proposer: Bgbba, Seconded by: Space, Date: September 12th, 2022
+
+**Bgbba**:
+>1. A formal declaration of war that requires restriction for public safety 
+
+>2. A referendum passed by a majority of the Ololtic affirming that a public forum should be made private 
+
+>3. An executive decision stated to be explicitly temporary for a specific purpose, monitored and affirmed as continuing to be necessary by the High Justice and the courts
+
+**Proposal failed**: 3 Ayes, 12 Nays
+
+## [Proposal] Elders day/Melonian Rememberance Day
+
+Proposer: Mechanical, Seconded by: Space and Vilyanz, Date: September 19th, 2022
+
+**Mechanical**:
+>Establish a National Holiday called Elders Day to celebrate the Melonians those that arrived to Yoahtl and also those that had arrived before Melonia, who are still with us today. The date will be February 9th, this marks the date that Yoahtl had left Melonia for CivCraft 2.0.
+
+**Proposal Passed**: 13 Ayes, 2 Abstains
+
+## [Proposal] Altepetl ban on Glowing Signs
+
+Proposer: Mocha, Seconded by: Yergo, Date: October 10th, 2022
+
+**Mocha**:
+>Ban glow signs within the walls of Altepetl
+
+**Proposal Passed**: 13 Ayes, 4 Nays
+
+## [Proposal] Government Monopoly
+
+Proposer: Solitaire, Seconded by: Space, Date: October 11th, 2022
+
+**Solitaire**:
+>Create a government monopoly over experience whether as xp bottles, emeralds or E blocks; over bastions whether city or vault; and over the buying of essence. 
+
+>If the government fails to keep shops doing any of the above competitive with the wider server, and/or fails to keep them stocked for a period longer than 5 working days (working day to be classified as monday through friday) then they are open to be sued by anyone effected and will be liable to compensate for any projects delayed as well as being liable to possibly lose their monopoly over the product in question at the time if the courts decide as such.
+
+**Proposal Failed**: Withdrawn
+
+## [Proposal] Spruce Protection Act II
+
+Proposer: Princess__Bow, Seconded by: Bgbba, Date: October 14th, 2022
+
+**Princess__Bow**:
+>No spruce tree shall be fell in Winterbourne without the prior permission of Her Majesty the Princess Bow of Winterbourne
+
+**Proposal Failed** 4 Ayes, 8 Nays
+
+## [Proposal] Ensuring of Yoahtlan Rights and Freedoms
+
+Proposer: Bgbba, Seconded by: Mocha, Date: October 20th, 2022
+
+**Bgbba**:
+>The Executive bodies of Yoahtl cannot create laws nor enforce a law without history or custom within Yoahtl. Nor may they take action in or out of Yoahtl which is beyond the scope of their responsibilities are allowed within the Charter. Nor may an executive body without legislative authority and judicidial approval restrict the time honored and traditional rights and freedoms of Yoahtlans to act as they choose within the limits of reasonable behavior and within the limits of ongoing tradition. This amendment shall not be construed as revoking or removing any current powers of the government but rather limiting future expansion beyond the limits of the charter and legislation by the Ololtic.
+
+**Proposal Failed**: 2 Ayes, 7 Nays, 5 Abstains
+
