@@ -1042,3 +1042,24 @@ Proposer: Bgbba, Seconded by: Mocha, Date: October 20th, 2022
 
 **Proposal Failed**: 2 Ayes, 7 Nays, 5 Abstains
 
+## [Proposal] Anti-unrecorded Proposals
+
+Proposer: Mechanical, Seconded by: Mocha, Date: November 6th, 2022
+
+**Mechanical:**
+>Unrecorded proposals will take affect after the proposal is passed. If not publicly recorded within a week on on whatever the official platform for public recording Yoahtlan law is at the time of ratification: the law can be ignored by players without fear of being affected, as long as that does not actively harm other Yoahtlans via lag or direct PVP. 
+
+**Proposal Passed**: 20 Ayes, 1 Nays, 0 Abstians
+
+## [Proposal] Charter Amendment: Citizenship Suspencions Article 4 Section 1
+
+Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
+
+**Original**:
+>1. The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl.
+
+**Amendment**:
+> 1. The Ololtic denotes the abstract legislative body that consists of all voting-eligible members of Yoahtl. It shall comprise of members voted in by other members of the Ololtic as designated by this Charter.
+>       - a. The Council shall have the ability to suspend citizenship rights based upon activity and precedent. 
+>       - b. Citizenship rights shall be restored to a member of the Ololtic as established under this Charter by request if suspended
+>       - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
