@@ -13,22 +13,22 @@ const members = [
   {
     avatar: 'https://cdn.discordapp.com/avatars/226898080547602432/887e8e6a60a0e05deac971f03ef26b11.webp',
     name: 'Saint Neo',
-    title: 'Alcuahtl, General',
+    title: 'Alcuahtl, General, Councillor',
     links: []
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/168818172781264897/c01835926bb80b8e36315295cbf0e155.webp',
     name: "MechanicalRift",
-    title: 'Cheiftain, Councillor',
+    title: 'Cheiftain',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/199409362781863936/62628d74b1128840ba066e1a5db4aff3.webp',
+    avatar: 'https://cdn.discordapp.com/avatars/199409362781863936/21d680e262f5c1765dbeab62e61bf618.webp',
     name: "Yergo",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/547001895458177044/e782048f1dc2ea7800e46d86bd1a1e16.webp',
-    name: "Vilyanz",
+    avatar: 'https://cdn.discordapp.com/avatars/290905238557425666/f83daadfd59e52f95515d78a211dcaa9.webp',
+    name: "Mahz",
     title: 'Councillor',
   },
   {
