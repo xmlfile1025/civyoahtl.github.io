@@ -1063,3 +1063,5 @@ Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
 >       - a. The Council shall have the ability to suspend citizenship rights based upon activity and precedent. 
 >       - b. Citizenship rights shall be restored to a member of the Ololtic as established under this Charter by request if suspended
 >       - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
+
+**Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstains
