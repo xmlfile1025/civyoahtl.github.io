@@ -1206,6 +1206,29 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"
   integrity sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==
 
+"@types/flexsearch@^0.7.3":
+  version "0.7.3"
+  resolved "https://registry.yarnpkg.com/@types/flexsearch/-/flexsearch-0.7.3.tgz#ee79b1618035c82284278e05652e91116765b634"
+  integrity sha512-HXwADeHEP4exXkCIwy2n1+i0f1ilP1ETQOH5KDOugjkTFZPntWo0Gr8stZOaebkxsdx+k0X/K6obU/+it07ocg==
+
+"@types/linkify-it@*":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/linkify-it/-/linkify-it-3.0.2.tgz#fd2cd2edbaa7eaac7e7f3c1748b52a19143846c9"
+  integrity sha512-HZQYqbiFVWufzCwexrvh694SOim8z2d+xJl5UNamcvQFejLY/2YUtzXHYi3cHdI7PMlS8ejH2slRAOJQ32aNbA==
+
+"@types/markdown-it@^12.2.3":
+  version "12.2.3"
+  resolved "https://registry.yarnpkg.com/@types/markdown-it/-/markdown-it-12.2.3.tgz#0d6f6e5e413f8daaa26522904597be3d6cd93b51"
+  integrity sha512-GKMHFfv3458yYy+v/N8gjufHO6MSZKCOXpZc5GXIWWy8uldwfmPn98vp81gZ5f9SVw8YYBctgfJ22a2d7AOMeQ==
+  dependencies:
+    "@types/linkify-it" "*"
+    "@types/mdurl" "*"
+
+"@types/mdurl@*":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/mdurl/-/mdurl-1.0.2.tgz#e2ce9d83a613bacf284c7be7d491945e39e1f8e9"
+  integrity sha512-eC4U9MlIcu2q0KQmXszyn5Akca/0jrQmwDRgpAMJai7qBWq4amIQhZyNau4VYGtCeALvW1/NtjzJJ567aZxfKA==
+
 "@types/node@*":
   version "18.6.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.6.1.tgz#828e4785ccca13f44e2fb6852ae0ef11e3e20ba5"
@@ -2938,10 +2961,14 @@ vite@^3.1.8:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitepress-plugin-search@^1.0.4-alpha.14:
-  version "1.0.4-alpha.14"
-  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.14.tgz#123742dd1c3d8bdb1d70ccc54f60816951e09110"
-  integrity sha512-PvHdsv4DN4SNfbfMN2IFp6vNKLXqEVpZpvkFi5zyEdTn0nb2HtaNuAtwSeSz7gWOMZwzLQ/ncHQ0Ka5beHgASQ==
+vitepress-plugin-search@^1.0.4-alpha.15:
+  version "1.0.4-alpha.15"
+  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.15.tgz#c26575a7b5f1eaa087835e702a9b93902a2d7948"
+  integrity sha512-Ef/VkhTVYlECVI0H9Ck6745UNPfYFppAqnlxVSMJXdxP2vjOZ5TYNczlTTQ2p9dh16MFw/IurbL1/GrG4nXdNw==
+  dependencies:
+    "@types/flexsearch" "^0.7.3"
+    "@types/markdown-it" "^12.2.3"
+    markdown-it "^13.0.1"
 
 vitepress@^1.0.0-alpha.27:
   version "1.0.0-alpha.27"
