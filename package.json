@@ -14,7 +14,7 @@
   "devDependencies": {
     "esno": "^0.16.3",
     "vite-plugin-pwa": "^0.14.0",
-    "vitepress": "^1.0.0-alpha.31",
+    "vitepress": "^1.0.0-alpha.32",
     "vue": "^3.2.45",
     "markdown-it": "^13.0.1",
     "vitepress-plugin-search": "^1.0.4-alpha.16"
