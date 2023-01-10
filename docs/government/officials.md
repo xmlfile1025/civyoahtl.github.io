@@ -13,7 +13,7 @@ const members = [
   {
     avatar: "https://cdn.discordapp.com/avatars/220355386455228417/91c3859af6310af3a43e58c409a3c890.webp",
     name: "bgbba",
-    title: 'Alcuahtl',
+    title: 'Alcuahtl, Councillor',
   },
   {
     avatar: "https://cdn.discordapp.com/avatars/292506314075275274/618c25d836ea917839d9068c758f4333.webp",
