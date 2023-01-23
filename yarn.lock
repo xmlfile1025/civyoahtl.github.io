@@ -2998,10 +2998,10 @@ vite@^4.0.4:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vitepress-plugin-search@^1.0.4-alpha.17:
-  version "1.0.4-alpha.17"
-  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.17.tgz#fff6c2d17b5092d79c390487516b839a17047d58"
-  integrity sha512-yxZxfNK51n5xiStjr3aSxsTTUqrm9JmYHuwq59bMrGxNyEyigrFtNybmhHQokVrcxDblokKX9f96sSQmz3PypQ==
+vitepress-plugin-search@^1.0.4-alpha.18:
+  version "1.0.4-alpha.18"
+  resolved "https://registry.yarnpkg.com/vitepress-plugin-search/-/vitepress-plugin-search-1.0.4-alpha.18.tgz#3dadaba20a020b8da536c37a6c6d2089cfdbb4a0"
+  integrity sha512-OEWPUL8Wpq7c7Tm5XYdNqUGDiNub33s8S/krOeXufvdLCZsGE0ursaaSoccDXNu4ftE3cQkgSSJwWFVLpjjGLw==
   dependencies:
     "@types/flexsearch" "^0.7.3"
     "@types/markdown-it" "^12.2.3"
