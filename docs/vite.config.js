@@ -1,46 +1,17 @@
 import { defineConfig } from "vite";
-import { VitePWA } from "vite-plugin-pwa";
 import { SearchPlugin } from "vitepress-plugin-search";
 
 export default defineConfig({
   plugins: [
-    VitePWA({
-      outDir: ".vitepress/dist",
-      registerType: "autoUpdate",
-      workbox: {
-        globPatterns: ["**/*.{js,css,html,ico,png,svg,woff2}"],
-      },
-      includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
-      devOptions: {
-        enabled: false,
-        /* other options */
-      },
-      injectRegister: "script",
-      manifest: {
-        name: "The Government of Yoahtl",
-        short_name: "Yoahtl Gov",
-        description: "The website for the Yoahtlan government",
-        theme_color: "#ffffff",
-        icons: [
-          {
-            src: "pwa-192x192.png",
-            sizes: "192x192",
-            type: "image/png",
-          },
-          {
-            src: "pwa-512x512.png",
-            sizes: "512x512",
-            type: "image/png",
-          },
-          {
-            src: "pwa-512x512.png",
-            sizes: "512x512",
-            type: "image/png",
-            purpose: "any maskable",
-          },
-        ],
+    SearchPlugin({
+      previewLength: 10,
+      tokenize: "strict",
+      cache: 20,
+      context: {
+        resolution: 5,
+        depth: 3,
+        bidirectional: true,
       },
     }),
-    SearchPlugin(),
   ],
 });
