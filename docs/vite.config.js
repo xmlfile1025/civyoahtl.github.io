@@ -41,6 +41,15 @@ export default defineConfig({
         ],
       },
     }),
-    SearchPlugin(),
+    SearchPlugin({
+      previewLength: 10,
+      tokenize: "strict",
+      cache: 20,
+      context: {
+        resolution: 5,
+        depth: 3,
+        bidirectional: true,
+      },
+    }),
   ],
 });
