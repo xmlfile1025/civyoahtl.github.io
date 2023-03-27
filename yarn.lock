@@ -1412,10 +1412,10 @@
   resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-3.2.0.tgz#a1484089dd85d6528f435743f84cdd0d215bbb54"
   integrity sha512-E0tnaL4fr+qkdCNxJ+Xd0yM31UwMkQje76fsDVBBUCoGOUPexu2VDUYHL8P4CwV+zMvWw6nlRw19OnRKmYAJpw==
 
-"@vitejs/plugin-vue@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-4.0.0.tgz#93815beffd23db46288c787352a8ea31a0c03e5e"
-  integrity sha512-e0X4jErIxAB5oLtDqbHvHpJe/uWNkdpYV83AOG2xo2tEVSzCzewgJMtREZM30wXnM5ls90hxiOtAuVU6H5JgbA==
+"@vitejs/plugin-vue@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-4.1.0.tgz#b6a9d83cd91575f7ee15593f6444397f68751073"
+  integrity sha512-++9JOAFdcXI3lyer9UKUV4rfoQ3T1RN8yDqoCLar86s0xQct5yblxAE+yWgRnU5/0FOlVCpTZpYSBV/bGWrSrQ==
 
 "@vue/compiler-core@3.2.47":
   version "3.2.47"
@@ -3246,7 +3246,7 @@ vite@^3.0.8:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vite@^4.1.4, vite@^4.2.1:
+vite@^4.2.1:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.2.1.tgz#6c2eb337b0dfd80a9ded5922163b94949d7fc254"
   integrity sha512-7MKhqdy0ISo4wnvwtqZkjke6XN4taqQ2TBaTccLIpOKv7Vp2h4Y+NpmWCnGDeSvvn45KxvWgGyb0MkHvY1vgbg==
@@ -3283,19 +3283,19 @@ vitepress@1.0.0-alpha.13:
     vite "^3.0.8"
     vue "^3.2.37"
 
-vitepress@^1.0.0-alpha.60:
-  version "1.0.0-alpha.60"
-  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.60.tgz#6ce09e0b31ae5fc66f1309e0676c3988095c9be7"
-  integrity sha512-GI5iLDkZRqGEPixbSloT+p6pbKcMh9ykRRxt8vf9AjV1gaPit6Stg/t9WNxTdIhKVCuQMexGs1605DNApSRK2A==
+vitepress@^1.0.0-alpha.63:
+  version "1.0.0-alpha.63"
+  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.63.tgz#5ffe491905e2db4ac7892811752362d3dd84c8f9"
+  integrity sha512-7QMwjT9888S64SkmJqSmRlP417yniCj4IqawIpzYSQMnlJ5CjBWOTbzXKvmzRZkjOJGTcaYr2C88+1/z8ERG+g==
   dependencies:
     "@docsearch/css" "^3.3.3"
     "@docsearch/js" "^3.3.3"
-    "@vitejs/plugin-vue" "^4.0.0"
+    "@vitejs/plugin-vue" "^4.1.0"
     "@vue/devtools-api" "^6.5.0"
     "@vueuse/core" "^9.13.0"
     body-scroll-lock "4.0.0-beta.0"
     shiki "^0.14.1"
-    vite "^4.1.4"
+    vite "^4.2.1"
     vue "^3.2.47"
 
 vscode-oniguruma@^1.6.1, vscode-oniguruma@^1.7.0:
