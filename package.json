@@ -16,7 +16,7 @@
     "esno": "^0.16.3",
     "flexsearch": "^0.7.31",
     "markdown-it": "^13.0.1",
-    "vite-plugin-pwa": "^0.14.6",
+    "vite-plugin-pwa": "^0.14.7",
     "vitepress": "^1.0.0-alpha.63",
     "vitepress-plugin-search": "^1.0.4-alpha.19",
     "vue": "^3.2.47"
