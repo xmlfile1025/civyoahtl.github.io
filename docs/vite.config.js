@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [
     SearchPlugin({
       previewLength: 10,
-      tokenize: "strict",
+      tokenize: "forward",
       cache: 20,
       context: {
         resolution: 5,
