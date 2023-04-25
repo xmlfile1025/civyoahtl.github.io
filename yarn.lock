@@ -2542,7 +2542,7 @@ magic-string@^0.27.0:
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.13"
 
-mark.js@^8.11.1:
+mark.js@8.11.1:
   version "8.11.1"
   resolved "https://registry.yarnpkg.com/mark.js/-/mark.js-8.11.1.tgz#180f1f9ebef8b0e638e4166ad52db879beb2ffc5"
   integrity sha512-1I+1qpDt4idfgLQG+BNWmrqku+7/2bi5nLf4YwF8y8zXvmfiTBY3PV3ZibfrjBueCByROpuBjLLFCajqkgYoLQ==
@@ -3097,7 +3097,7 @@ vite-plugin-pwa@^0.14.7:
     workbox-build "^6.5.4"
     workbox-window "^6.5.4"
 
-vite@^4.2.1, vite@^4.3.1:
+vite@^4.3.0, vite@^4.3.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.1.tgz#9badb1377f995632cdcf05f32103414db6fbb95a"
   integrity sha512-EPmfPLAI79Z/RofuMvkIS0Yr091T2ReUoXQqc5ppBX/sjFRhHKiPPF/R46cTdoci/XgeQpB23diiJxq5w30vdg==
@@ -3118,10 +3118,10 @@ vitepress-plugin-search@^1.0.4-alpha.20:
     glob-to-regexp "^0.4.1"
     markdown-it "^13.0.1"
 
-vitepress@^1.0.0-alpha.71:
-  version "1.0.0-alpha.71"
-  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.71.tgz#eea397bd7a66208e3079672844e388e63a6e2b0d"
-  integrity sha512-UkmDuNO+paGq0ba5WVhwasR1BCQ0owlPStnjtCRd/cfzXB+VBAiZFK9pglVQaf/tDBFQOuHZkrkfgp5ka69hIg==
+vitepress@^1.0.0-alpha.73:
+  version "1.0.0-alpha.73"
+  resolved "https://registry.yarnpkg.com/vitepress/-/vitepress-1.0.0-alpha.73.tgz#d5b459299ab294507de2dea4f6f0b0592535a359"
+  integrity sha512-BWK7b5yYxdA3SeBnUV+ly8vJU2MFcQhjooycLDc2AsSd07uGp+WO6J6gBmjwHuOz5hgcNa+/VxGWKKwBycdbnA==
   dependencies:
     "@docsearch/css" "^3.3.3"
     "@docsearch/js" "^3.3.3"
@@ -3129,10 +3129,10 @@ vitepress@^1.0.0-alpha.71:
     "@vue/devtools-api" "^6.5.0"
     "@vueuse/core" "^10.0.2"
     body-scroll-lock "4.0.0-beta.0"
-    mark.js "^8.11.1"
+    mark.js "8.11.1"
     minisearch "^6.0.1"
     shiki "^0.14.1"
-    vite "^4.2.1"
+    vite "^4.3.0"
     vue "^3.2.47"
 
 vscode-oniguruma@^1.7.0:
