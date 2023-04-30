@@ -263,3 +263,5 @@ Precedents:
 
 
 ## [ACCoker v. Swordproof (and Xan), Mar 2023](/government/court-cases-precedents/accoker_v_Swordproof_(and_xan)_mar_2023.md)
+
+## [Arconis (ACCoker and Pantherr) v. Buglesz, Apr 2023](/government/court-cases-precedents/arconis_(accocker_and_pantherr)_v_buglesz.md)
