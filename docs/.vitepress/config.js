@@ -180,6 +180,10 @@ export default withPwa(
             text: "Court System",
             items: [
               {
+                text: "Code of Court Procedure",
+                link: "/government/code-of-court",
+              },
+              {
                 text: "Cases and Precedents",
                 link: "/government/court-cases-precedents/index",
               },
