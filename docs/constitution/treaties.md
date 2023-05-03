@@ -61,3 +61,9 @@ Yoahtl signed the [Treaty of Terestai](/storage/treaties/ashelor-ascension.pdf) 
 
 - Signed 7th August 2020
 - Voided 12th October 2020
+
+## Treaty of Exilus
+
+Yoahtl signed the [Treaty of Exilus](pathname:///storage/treaties/treaty-exilus-incorperation.pdf) allowing Exilus to join as a homestead.
+
+- Signed 2nd May 2023
