@@ -77,6 +77,7 @@ export default withPwa(
         { text: "Culture & History", link: "/culture/index" },
         { text: "Constitution", link: "/constitution/charter" },
         { text: "Government", link: "/government/introduction" },
+        { text: "Judiciary", link: "/judiciary/code-of-court" },
         {
           text: "Misc",
           items: [
@@ -178,19 +179,6 @@ export default withPwa(
             ],
           },
           {
-            text: "Court System",
-            items: [
-              {
-                text: "Code of Court Procedure",
-                link: "/government/code-of-court",
-              },
-              {
-                text: "Cases and Precedents",
-                link: "/government/court-cases-precedents/index",
-              },
-            ],
-          },
-          {
             text: "Gov Documents",
             collapsible: true,
             collapsed: true,
@@ -206,6 +194,21 @@ export default withPwa(
               {
                 text: "Treaty of Siccufrigus",
                 link: "/government/documents/siccufrigus",
+              },
+            ],
+          },
+        ],
+        "/judiciary/": [
+          {
+            text: "Judiciary",
+            items: [
+              {
+                text: "Code of Court Procedure",
+                link: "/judiciary/code-of-court",
+              },
+              {
+                text: "Cases and Precedents",
+                link: "/judiciary/court-cases-precedents/index",
               },
             ],
           },
