@@ -1,8 +1,13 @@
 import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
+import { createWriteStream } from "node:fs";
+import { resolve } from "node:path";
+import { SitemapStream } from "sitemap";
 
 const ogUrl = "https://civyoahtl.github.io/";
 const ogImage = "https://civyoahtl.github.io/yoahtl-flag.png";
+
+const links = [];
 
 export default withPwa(
   defineConfig({
@@ -251,6 +256,26 @@ export default withPwa(
           },
         ],
       },
+    },
+
+    transformHtml: (_, id, { pageData }) => {
+      if (!/[\\/]404\.html$/.test(id))
+        links.push({
+          // you might need to change this if not using clean urls mode
+          url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, "$2"),
+          lastmod: pageData.lastUpdated,
+        });
+    },
+
+    buildEnd: async ({ outDir }) => {
+      const sitemap = new SitemapStream({
+        hostname: "https://civyoahtl.github.io/",
+      });
+      const writeStream = createWriteStream(resolve(outDir, "sitemap.xml"));
+      sitemap.pipe(writeStream);
+      links.forEach((link) => sitemap.write(link));
+      sitemap.end();
+      await new Promise((r) => writeStream.on("finish", r));
     },
   })
 );
