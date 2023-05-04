@@ -222,7 +222,7 @@ export default withPwa(
       workbox: {
         globPatterns: ["**/*.{js,css,html,ico,png,svg,woff2}"],
       },
-      includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
+      includeAssets: ["favicon.ico", "**/*.png", "**/*.svg"],
       devOptions: {
         enabled: false,
         /* other options */
