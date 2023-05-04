@@ -1,3 +1,5 @@
 # Culture & History
 
 Please see our dedicated [wiki page](https://civwiki.org/wiki/History_of_Yoahtl).
+
+There is also the document Qua wrote, [S.H.Y (Summarized Histories of Yoahtl)](pathname:///storage/misc/summarized-histories-of-yoahtl.pdf). ([Original document](https://docs.google.com/document/d/1IGeqMPMeLWY5fM0eqCbPB8D0dd7127mCKLBJV4HUSbY/edit))
