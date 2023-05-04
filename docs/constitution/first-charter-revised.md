@@ -4,6 +4,8 @@
 If you possess a copy of the `Revised Yoahtlan National Charter`, please contact the site maintainers or a government official.
 
 Currently this page is based on a revised version of the charter [here](https://www.reddit.com/r/CivYoahtl/wiki/council/charter/first_charter/?v=19314df4-d62f-11e9-8b03-0e855e0981b8).
+
+What is belived to be a more acurate version can be found [here](pathname:///storage/constitution/Yoahtlan-Charter-Revised.pdf). ([Original document](https://docs.google.com/document/d/1Cyv8CE7UUC4wP1t1xKWRi1Lp8E46dEpZ-an7HIkpURU/edit))
 :::
 
 ### The First Charter (Revised, Inactive)
