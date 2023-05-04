@@ -225,6 +225,10 @@ export default withPwa(
       scope: "/",
       registerType: "autoUpdate",
       workbox: {
+        // if navigation fails, fallback to 404 page
+        navigateFallback: "404.html",
+        // instruct sw to not intercet requests pdf files
+        navigateFallbackDenylist: [/.+\.pdf/, /robots\.txt/, /sitemap\.xml/],
         globPatterns: ["**/*.{js,css,html,ico,png,svg,woff2}"],
       },
       includeAssets: ["favicon.ico", "**/*.png", "**/*.svg"],
