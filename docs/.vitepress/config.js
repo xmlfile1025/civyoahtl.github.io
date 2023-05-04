@@ -92,7 +92,7 @@ export default withPwa(
         },
         {
           text: "Judiciary",
-          link: "/judiciary/code-of-court",
+          link: "/judiciary/",
           activeMatch: "/judiciary/",
         },
         {
@@ -219,6 +219,10 @@ export default withPwa(
           {
             text: "Judiciary",
             items: [
+              {
+                text: "Index",
+                link: "/judiciary/",
+              },
               {
                 text: "Code of Court Procedure",
                 link: "/judiciary/code-of-court",
