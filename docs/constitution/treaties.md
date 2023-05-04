@@ -62,6 +62,12 @@ Yoahtl signed the [Treaty of Terestai](pathname:///storage/treaties/ashelor-asce
 - Signed 7th August 2020
 - Voided 12th October 2020
 
+## Sylvia Agreement
+
+Yoahlt signed the [Sylvia Agreement](pathname:///storage/treaties/sylvia-agreement.pdf) treaty allowing the Sylvia Province to join Yoahtl.
+
+- Signed 20th February 2023
+
 ## Treaty of Capitum
 
 Yoahtl signed the [Treaty of Capitum](pathname:///storage/treaties/treaty-of-capitum.pdf) allowing Capitum to join as a homestead.
