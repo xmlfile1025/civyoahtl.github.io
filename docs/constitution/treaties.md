@@ -62,6 +62,12 @@ Yoahtl signed the [Treaty of Terestai](pathname:///storage/treaties/ashelor-asce
 - Signed 7th August 2020
 - Voided 12th October 2020
 
+## Treaty of Capitum
+
+Yoahtl signed the [Treaty of Capitum](pathname:///storage/treaties/treaty-of-capitum.pdf) allowing Capitum to join as a homestead.
+
+- Signed 21st March 2023
+
 ## Treaty of Exilus
 
 Yoahtl signed the [Treaty of Exilus](pathname:///storage/treaties/treaty-exilus-incorperation.pdf) allowing Exilus to join as a homestead.
