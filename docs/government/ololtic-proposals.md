@@ -1097,3 +1097,21 @@ Proposer: Space, Seconded by: Solitaire, Date: November 6th, 2022
 >    - c. Any previous citizen of Yoahtl not voted into the Ololtic as established by this charter shall regain citizenship rights by Ololtic vote.
 
 **Proposal Passed**: 22 Ayes, 0 Nays, 0 Abstains
+
+## [Proposal] Dereliction Laws 2: Electric Boogaloo
+
+Proposer: Solitaire, Seconded by: Flora_Borealis, Date: April 20th, 2023
+
+**Solitaire**:
+
+> Dereliction priority is determined by a multitude of factors, including period of inactivity, location of property, and other circumstances. Value of the goods inside the property may not be considered as part of the dereliction process. Dereliction is the duty of all councilors. Any Councilor can act as a derelictor if the council as a whole supports the decision, either in the approval of a plot on top of the derelict property or directly through a public council vote.
+
+> Landlords and other plot owners who lease their property do not have the ability to carry out derelictions on their plot. It is the duty of the council to make sure they are regularly carrying out dereliction. All apartments are to be classified as long term or short term, which tenants must be informed of.
+
+> For Long-Term Residents: After eviction per rules of the leased property, a player has six (6) months to reclaim their possessions. If the player has not returned after six (6) months have passed then the items can be claimed by the government with no right for reimbursement upon player return.
+
+> For Short-Term Residents: After eviction per rules of the leased property, a player has twenty-one (21) days to claim their possessions. If the player has not returned after twenty-one (21) days have passed then the items can be claimed by the government with no right for reimbursement upon player return.
+
+> Materials and stored goods from plot derelictions are to be placed in government storage until reclaimed by the owner. The Ololtic may authorize a nationalization of any raw goods (i.e. iron, diamonds, xp etc...) after a period of inactivity nine (9) months or longer. This does not apply to non-raw goods such as banners, welcome books, map art, player heads etc...
+
+**Proposal Passed**: 10 Ayes, 5 Nays, 2 Abstains
