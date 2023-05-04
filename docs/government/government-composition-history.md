@@ -231,3 +231,6 @@
 - Mokotowskie (Councillor)
 - Neotide (Councillor)
 - ArkenX (Councillor)
+
+High Justice SpaceVolcano steped down on 3/29/2023 (Presided for over 5 years)
+Husky was appointed High Justice on 3/31/2023
