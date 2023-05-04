@@ -62,6 +62,12 @@ Yoahtl signed the [Treaty of Terestai](pathname:///storage/treaties/ashelor-asce
 - Signed 7th August 2020
 - Voided 12th October 2020
 
+## Regional Welfare, Development and Safety Treaty
+
+Yoahtl signed the [Regional Welfare, Development and Safety Treaty](pathname:///storage/treaties/The-Grand-Imperium-Yoahtl-Regional-Welfare-Development-and-Safety-Treaty.pdf) treaty.
+
+- Signed 23rd July 2022
+
 ## Sylvia Agreement
 
 Yoahlt signed the [Sylvia Agreement](pathname:///storage/treaties/sylvia-agreement.pdf) treaty allowing the Sylvia Province to join Yoahtl.
