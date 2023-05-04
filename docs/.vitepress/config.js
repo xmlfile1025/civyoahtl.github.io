@@ -80,9 +80,21 @@ export default withPwa(
       logo: "/yoahtl-flag.png",
       nav: [
         { text: "Culture & History", link: "/culture/index" },
-        { text: "Constitution", link: "/constitution/charter" },
-        { text: "Government", link: "/government/introduction" },
-        { text: "Judiciary", link: "/judiciary/code-of-court" },
+        {
+          text: "Constitution",
+          link: "/constitution/charter",
+          activeMatch: "/constitution/",
+        },
+        {
+          text: "Government",
+          link: "/government/introduction",
+          activeMatch: "/government/",
+        },
+        {
+          text: "Judiciary",
+          link: "/judiciary/code-of-court",
+          activeMatch: "/judiciary/",
+        },
         {
           text: "Misc",
           items: [
@@ -273,7 +285,7 @@ export default withPwa(
 
     buildEnd: async ({ outDir }) => {
       const sitemap = new SitemapStream({
-        hostname: "https://civyoahtl.github.io/",
+        hostname: ogUrl,
       });
       const writeStream = createWriteStream(resolve(outDir, "sitemap.xml"));
       sitemap.pipe(writeStream);
