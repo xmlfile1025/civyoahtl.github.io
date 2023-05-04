@@ -220,3 +220,14 @@
 - Mokotowskie (Councillor)
 - Neotide (General)
 - Yergo (Councillor)
+
+...
+
+### ?? 13th March 2023 - ...
+
+**Alcuahtl**: Neotide
+
+- Flora_Borealis (Councillor)
+- Mokotowskie (Councillor)
+- Neotide (Councillor)
+- ArkenX (Councillor)
