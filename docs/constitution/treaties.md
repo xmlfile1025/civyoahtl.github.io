@@ -62,6 +62,12 @@ Yoahtl signed the [Treaty of Terestai](pathname:///storage/treaties/ashelor-asce
 - Signed 7th August 2020
 - Voided 12th October 2020
 
+## Ascension of Koenigsberg
+
+Yoahtl signed the [Ascension of Koenigsberg](pathname:///storage/treaties/koenigsberg-of-ascension.pdf) treaty allowing Koenigsberg to join as an autonomous town.
+
+- Signed ??
+
 ## Regional Welfare, Development and Safety Treaty
 
 Yoahtl signed the [Regional Welfare, Development and Safety Treaty](pathname:///storage/treaties/The-Grand-Imperium-Yoahtl-Regional-Welfare-Development-and-Safety-Treaty.pdf) treaty.
