@@ -231,6 +231,9 @@ export default withPwa(
           },
         ],
       },
+      search: {
+        provider: "local",
+      },
     },
     pwa: {
       base: "/",
