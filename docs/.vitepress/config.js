@@ -69,6 +69,7 @@ export default withPwa(
       ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
     ],
     lastUpdated: true,
+    appearance: "dark",
     themeConfig: {
       siteTitle: "The Government of Yoahtl",
       logo: "/yoahtl-flag.png",
