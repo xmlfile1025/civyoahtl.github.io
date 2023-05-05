@@ -137,6 +137,10 @@ export default withPwa(
             text: "Historical",
             items: [
               {
+                text: "Articles of Governance",
+                link: "/constitution/articles-of-governance",
+              },
+              {
                 text: "The First Charter",
                 link: "/constitution/first-charter",
               },
