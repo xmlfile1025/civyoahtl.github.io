@@ -233,7 +233,7 @@ export default withPwa(
               },
               {
                 text: "Cases and Precedents",
-                link: "/judiciary/court-cases-precedents/index",
+                link: "/judiciary/court-cases-precedents/",
               },
             ],
           },
