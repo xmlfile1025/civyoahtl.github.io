@@ -5,3 +5,5 @@ Yoahtl agreed to an implicit treaty with Okx for the creation of a new autonomou
 <!-- link to the img like its a url to a page -->
 
 ![image](/storage/treaties/treaty-of-siccufrigus.png)
+
+The [full Siccufrigan treaty](pathname:///storage/treaties/Siccufrigan-Yoahtl-Treaty.pdf). ([Original document](https://docs.google.com/document/d/1RSxMpdSDEDMRlRZRgkzMs90lKBxJF_YzNXVLkBPss5s/edit#))
