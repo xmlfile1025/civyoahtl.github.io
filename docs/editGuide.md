@@ -52,3 +52,9 @@ Now notice how the path for `link` is similar to the structure of how the files 
 ## WTF is Git?
 
 You can learn more about Git & Github on [Github's Git Guide](https://github.com/git-guides).
+
+## Advanced Usage
+
+> For advanced users only
+
+Optimize pdfs using: https://github.com/pts/pdfsizeopt

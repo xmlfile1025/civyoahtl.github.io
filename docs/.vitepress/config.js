@@ -1,8 +1,13 @@
 import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
+import { createWriteStream } from "node:fs";
+import { resolve } from "node:path";
+import { SitemapStream } from "sitemap";
 
 const ogUrl = "https://civyoahtl.github.io/";
 const ogImage = "https://civyoahtl.github.io/yoahtl-flag.png";
+
+const links = [];
 
 export default withPwa(
   defineConfig({
@@ -69,13 +74,27 @@ export default withPwa(
       ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
     ],
     lastUpdated: true,
+    appearance: "dark",
     themeConfig: {
       siteTitle: "The Government of Yoahtl",
       logo: "/yoahtl-flag.png",
       nav: [
         { text: "Culture & History", link: "/culture/index" },
-        { text: "Constitution", link: "/constitution/charter" },
-        { text: "Government", link: "/government/introduction" },
+        {
+          text: "Constitution",
+          link: "/constitution/charter",
+          activeMatch: "/constitution/",
+        },
+        {
+          text: "Government",
+          link: "/government/introduction",
+          activeMatch: "/government/",
+        },
+        {
+          text: "Judiciary",
+          link: "/judiciary/",
+          activeMatch: "/judiciary/",
+        },
         {
           text: "Misc",
           items: [
@@ -117,6 +136,10 @@ export default withPwa(
           {
             text: "Historical",
             items: [
+              {
+                text: "Articles of Governance",
+                link: "/constitution/articles-of-governance",
+              },
               {
                 text: "The First Charter",
                 link: "/constitution/first-charter",
@@ -177,15 +200,6 @@ export default withPwa(
             ],
           },
           {
-            text: "Court System",
-            items: [
-              {
-                text: "Cases and Precedents",
-                link: "/government/court-cases-precedents/index",
-              },
-            ],
-          },
-          {
             text: "Gov Documents",
             collapsible: true,
             collapsed: true,
@@ -205,6 +219,28 @@ export default withPwa(
             ],
           },
         ],
+        "/judiciary/": [
+          {
+            text: "Judiciary",
+            items: [
+              {
+                text: "Index",
+                link: "/judiciary/",
+              },
+              {
+                text: "Code of Court Procedure",
+                link: "/judiciary/code-of-court",
+              },
+              {
+                text: "Cases and Precedents",
+                link: "/judiciary/court-cases-precedents/",
+              },
+            ],
+          },
+        ],
+      },
+      search: {
+        provider: "local",
       },
     },
     pwa: {
@@ -212,9 +248,13 @@ export default withPwa(
       scope: "/",
       registerType: "autoUpdate",
       workbox: {
+        // if navigation fails, fallback to 404 page
+        navigateFallback: "404.html",
+        // instruct sw to not intercet requests pdf files
+        navigateFallbackDenylist: [/.+\.pdf/, /robots\.txt/, /sitemap\.xml/],
         globPatterns: ["**/*.{js,css,html,ico,png,svg,woff2}"],
       },
-      includeAssets: ["favicon.ico", "apple-touch-icon.png", "masked-icon.svg"],
+      includeAssets: ["favicon.ico", "**/*.png", "**/*.svg"],
       devOptions: {
         enabled: false,
         /* other options */
@@ -243,6 +283,26 @@ export default withPwa(
           },
         ],
       },
+    },
+
+    transformHtml: (_, id, { pageData }) => {
+      if (!/[\\/]404\.html$/.test(id))
+        links.push({
+          // you might need to change this if not using clean urls mode
+          url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, "$2"),
+          lastmod: pageData.lastUpdated,
+        });
+    },
+
+    buildEnd: async ({ outDir }) => {
+      const sitemap = new SitemapStream({
+        hostname: ogUrl,
+      });
+      const writeStream = createWriteStream(resolve(outDir, "sitemap.xml"));
+      sitemap.pipe(writeStream);
+      links.forEach((link) => sitemap.write(link));
+      sitemap.end();
+      await new Promise((r) => writeStream.on("finish", r));
     },
   })
 );
