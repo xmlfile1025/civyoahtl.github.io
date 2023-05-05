@@ -82,7 +82,7 @@ Yoahlt signed the [Sylvia Agreement](pathname:///storage/treaties/sylvia-agreeme
 
 ## Treaty of Capitum
 
-Yoahtl signed the [Treaty of Capitum](pathname:///storage/treaties/treaty-of-capitum.pdf) allowing Capitum to join as a homestead.
+Yoahtl signed the [Treaty of Capitum](pathname:///storage/treaties/treaty-of-capitum.pdf) allowing The Grand Imperium to join as a homestead.
 
 - Signed 21st March 2023
 
