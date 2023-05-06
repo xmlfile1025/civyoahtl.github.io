@@ -98,6 +98,14 @@ As time goes on, it becomes necessary for a nation to establish for itself a bod
 
    - d. Should the proposal receive more Ayes than Nays and those Ayes represent at least ⅓ of the Ololtic, it then becomes official. (ie: is enacted / ratified / confirmed / etc)
 
+1. Affirming new citizens to the ololtic will abide by the following procedure:
+   
+   - a. Residents of Yoahtl proper may submit a request to become a member of the ololtic at any time.
+   
+   - b. A government member then begins the voting process during which current members of the ololtic have 48 hours to vote on the request.
+   
+   - c. Once the 48 hour period has passed if the request has received ayes from greater than half the ololtic then it passes.
+
 ## Article V - Court System
 
 1. The High Justice will be appointed by the Ololtic and will serve indefinitely.
@@ -235,3 +243,7 @@ Add the following sub-article to Article 2:
 ### 13th Amendment
 
 1. To take effect when the next full council election occurs (September 2022): Changing Article 2 Section 7 from 'The Council is responsible for electing the Alcuahtl from among the Ololtic who are not currently serving as High Justice or other executive offices.' to 'The Council is responsible for electing the Alcuahtl to be "first among equals" from among their fellow Councillors.'
+
+### 14th Amendment
+
+1. Add Article 4 Section 4 from the Olotic Proposal [Codifying Citizen Votes](/government/ololtic-proposals.html#proposal-codifying-citizen-votes)
