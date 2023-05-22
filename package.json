@@ -19,7 +19,7 @@
     "sitemap": "^7.1.1",
     "vite-plugin-pwa": "^0.14.7",
     "vitepress": "^1.0.0-alpha.75",
-    "vue": "^3.3.2"
+    "vue": "^3.3.4"
   },
   "dependencies": {
     "vite": "^4.3.5"
