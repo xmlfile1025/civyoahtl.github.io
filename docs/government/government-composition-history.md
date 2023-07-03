@@ -240,6 +240,7 @@ Husky was appointed High Justice on 3/31/2023
 **Alcuahtl**: Neotide
 
 - Neotide (Councillor)
-- Solitaire (Councillor)
+- Solitaire (Councillor) (Stepped down 6/02/2023)
 - ArkenX (Councillor)
 - Nukinmouse01 (Councillor)
+- Arconis (Councillor) (Replaced Solitaire)
