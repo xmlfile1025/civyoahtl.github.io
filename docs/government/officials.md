@@ -11,14 +11,14 @@ import {
 
 const members = [
   {
-    avatar: 'https://cdn.discordapp.com/avatars/226898080547602432/887e8e6a60a0e05deac971f03ef26b11?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/226898080547602432/884c8e5bdf34fb8226d9dc508d5cb3a5?size=1024',
     name: 'Saint Neo',
     title: 'Alcuahtl, Councillor',
     links: []
   },
   {
-    avatar: "https://cdn.discordapp.com/avatars/168746386320261120/c306bd237301b5a29da4a9e8084baa0e?size=1024",
-    name: "Solitaire",
+    avatar: "https://cdn.discordapp.com/avatars/834536107878121542/d3e84cb849dc40c34504d9038ca74d40?size=1024",
+    name: "Arconis",
     title: 'Councillor',
   },
   {
@@ -27,21 +27,28 @@ const members = [
     title: "Councillor"
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/292506314075275274/238777f90a2a3a26e68e3d1891563da4?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/292506314075275274/be06dc34b2ea6f2f620c27e62d200ecd?size=1024',
     name: "Nukinmouse01",
     title: 'Councillor',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/168818172781264897/c01835926bb80b8e36315295cbf0e155?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/168818172781264897/a3cdc309389db167bd69c05778c790dd?size=1024',
     name: "MechanicalRift",
     title: 'Cheiftain',
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/280815367662731266/4f1550f0dd8d3ea899ee40cfd108fcb5?size=1024',
+    avatar: 'https://cdn.discordapp.com/avatars/280815367662731266/bbfd384a75256e5cb22c4f4c294a0960?size=1024',
     name: "Husky",
     title: 'High Justice',
   },
 ]
+
+const day = new Date();
+if (day.getMonth()+1 === 4 && day.getDate() === 1) {
+    members.forEach((member) => {
+    member.title = member.title.replace("Alcuahtl", "Axolotl");
+  })
+}
 </script>
 
 <VPTeamPage>
