@@ -235,7 +235,7 @@
 High Justice SpaceVolcano steped down on 3/29/2023 (Presided for over 5 years)
 Husky was appointed High Justice on 3/31/2023
 
-### 13th May 2023 - ...
+### 13th May 2023 - 5th July 2023
 
 **Alcuahtl**: Neotide
 
@@ -244,3 +244,16 @@ Husky was appointed High Justice on 3/31/2023
 - ArkenX (Councillor)
 - Nukinmouse01 (Councillor)
 - Arconis (Councillor) (Replaced Solitaire)
+
+_There was an emergency election due to war thus the early end date_
+
+### 5th July 2023 - ...
+
+**Alcuahtl**: Arconis
+
+- Arconis (Councillor)
+- JessieJinx (Councillor)
+- Matt4fun9 (Councillor)
+- Vilyanz (Councillor)
+- x1025 (Councillor)
+- ArkenX (General)
