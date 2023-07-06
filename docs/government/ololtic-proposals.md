@@ -1115,3 +1115,13 @@ Proposer: Solitaire, Seconded by: Flora_Borealis, Date: April 20th, 2023
 > Materials and stored goods from plot derelictions are to be placed in government storage until reclaimed by the owner. The Ololtic may authorize a nationalization of any raw goods (i.e. iron, diamonds, xp etc...) after a period of inactivity nine (9) months or longer. This does not apply to non-raw goods such as banners, welcome books, map art, player heads etc...
 
 **Proposal Passed**: 10 Ayes, 5 Nays, 2 Abstains
+
+## [Proposal] Homesteads and Towns Act
+
+Proposer: Solitaire, Seconded by: Flora_Borealis, Date: July 1st, 2023
+
+_Notes: I'm not typing this shit, just read the google doc._
+
+[Google Doc](https://docs.google.com/document/d/1CIhRw8bhJImF7tuwub-_WZyEXvx6iB2pVn31VepoJvw/edit), [Archive](pathname:///storage/proposals/Homesteads-and-Towns-Act.pdf)
+
+**Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstains
