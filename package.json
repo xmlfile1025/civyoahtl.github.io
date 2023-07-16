@@ -22,6 +22,7 @@
     "vue": "^3.3.4"
   },
   "dependencies": {
+    "medium-zoom": "^1.0.8",
     "vite": "^4.4.2"
   }
 }
