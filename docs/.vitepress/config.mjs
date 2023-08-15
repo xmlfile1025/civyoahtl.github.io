@@ -76,7 +76,7 @@ export default withPwa(
     lastUpdated: true,
     appearance: "dark",
     themeConfig: {
-      siteTitle: "The Government of Yoahtl",
+      siteTitle: "Government of Yoahtl",
       logo: "/yoahtl-flag.png",
       nav: [
         { text: "Culture & History", link: "/culture/index" },

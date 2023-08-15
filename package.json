@@ -6,6 +6,7 @@
   "author": "Husky <39809509+Huskydog9988@users.noreply.github.com>",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
@@ -18,7 +19,7 @@
     "markdown-it": "^13.0.1",
     "sitemap": "^7.1.1",
     "vite-plugin-pwa": "^0.16.4",
-    "vitepress": "^1.0.0-beta.7",
+    "vitepress": "^1.0.0-rc.4",
     "vue": "^3.3.4"
   },
   "dependencies": {
