@@ -6,6 +6,7 @@
   "author": "Husky <39809509+Huskydog9988@users.noreply.github.com>",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
