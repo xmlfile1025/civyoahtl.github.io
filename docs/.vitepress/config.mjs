@@ -78,6 +78,7 @@ export default withPwa(
     themeConfig: {
       siteTitle: "Government of Yoahtl",
       logo: "/yoahtl-flag.png",
+      externalLinkIcon: true,
       nav: [
         { text: "Culture & History", link: "/culture/index" },
         {
@@ -242,6 +243,10 @@ export default withPwa(
       search: {
         provider: "local",
       },
+      footer: {
+        message: 'Released under the MIT License.',
+        copyright: 'Copyright © 2015-present The Citizens of Yoahtl'
+      }
     },
     pwa: {
       base: "/",
