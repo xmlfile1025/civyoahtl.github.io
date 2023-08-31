@@ -19,7 +19,7 @@
     "markdown-it": "^13.0.1",
     "sitemap": "^7.1.1",
     "vite-plugin-pwa": "^0.16.4",
-    "vitepress": "^1.0.0-rc.9",
+    "vitepress": "^1.0.0-rc.10",
     "vue": "^3.3.4"
   },
   "dependencies": {
