@@ -8,11 +8,8 @@
     --vp-home-hero-image-filter: blur(40px);
 
     --vp-c-brand-1: #ffcd30;
-    --vp-c-brand-2: #c70019;
+    --vp-c-brand-2: #994112;
     --vp-c-brand-3: #E36725;
-    /* --vp-c-gray-3: #E36725; */
-
-    --vp-font-family-mono
 }
 
 @media (min-width: 640px) {
