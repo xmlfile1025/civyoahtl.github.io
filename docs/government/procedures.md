@@ -6,7 +6,7 @@ The standard guidelines for completing governmental duties. Please note that unl
 
 ## Judiciary
 
-- [Rules of Court Procedure](https://drive.google.com/file/d/1cYiYVHAeP6hj3DMdXAwflmoOcXhn4b2Z/view) ([Law](/government/council-acts#council-act-13-7))
+- [Rules of Court Procedure](/judiciary/code-of-court) ([Law](/government/council-acts#council-act-13-7))
 - Plea deals/bargains are private agreements between the prosecution and the defence; private principally meaning outside of court. However, the court can be used as a mediator to an agreement's negotiation. Plea deals/bargains are considered contracts.
 
 ## Military
