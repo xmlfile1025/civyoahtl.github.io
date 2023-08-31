@@ -206,7 +206,7 @@ Precedents:
 
   - **(Ruling 2)** The court finds that membership of the discord platform is non-essential to membership of the in-game community.
 
-[Appellate Court Ruling](pathname:///storage/court/Nation-Of-Yoahtl-Appellate-Court.pdf) ([Original Document](https://docs.google.com/document/d/1e_0kW2gW5NVHTLcWNlXimGa0arDqOU2d7bH2yAuAot8/edit))
+[Appellate Court Ruling](/storage/court/Nation-Of-Yoahtl-Appellate-Court.pdf) ([Original Document](https://docs.google.com/document/d/1e_0kW2gW5NVHTLcWNlXimGa0arDqOU2d7bH2yAuAot8/edit))
 
 ## [iOminous v. Yoahtl, Oct 2019](/judiciary/court-cases-precedents/iominous_v_yoahtl_oct_2019)
 
