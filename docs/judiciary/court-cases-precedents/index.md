@@ -267,3 +267,9 @@ Precedents:
 ## [Arconis (ACCoker and Pantherr) v. Buglesz, Apr 2023](</judiciary/court-cases-precedents/arconis_(accocker_and_pantherr)_v_buglesz.md>)
 
 ## [Yoahtl v. RiseOfGruSweep, Jul 2023](/judiciary/court-cases-precedents/yoahtl_v_riseofgrusweep_jul_2023.md)
+
+## [Intelligences v. Matt4Fun, Aug 2023](/judiciary/court-cases-precedents/intelligences_v_matt4fun_aug_2023.md)
+
+Precedents:
+
+- The court recognizes the charges of withholding payment and breach of contract as valid.
