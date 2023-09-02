@@ -238,7 +238,7 @@ Proposer: SpaceVolcano, Seconded By: Charlieseeese, Date: 8th February 2020
 
 Proposal failed: 3 Ayes, 3 Nays, No Abstentions
 
-_([Archive of Google Doc](pathname:///storage/proposals/Proposal-Twenty-Three.pdf))_
+_([Archive of Google Doc](/storage/proposals/Proposal-Twenty-Three.pdf))_
 
 ## Proposal Twenty Four (Failed)
 
@@ -364,7 +364,7 @@ Proposer: NevermoreGrim, Seconded By: Sventhar, Date: 23rd December 2020
 
 **Proposal status**: UNKNOWN
 
-_([Archive of Photo](pathname:///storage/proposals/Keep-plot-non-residential.png))_
+_([Archive of Photo](/storage/proposals/Keep-plot-non-residential.png))_
 
 ## [Proposal] Recategorise the Council as the legislature
 
@@ -412,7 +412,7 @@ Proposer: GDAN, Seconded By: SpaceVolcano, Date: 12th June 2021
 
 **Proposal status**: UNKNOWN
 
-_([Archive of Photo](pathname:///storage/proposals/Protect-palm-tree.png))_
+_([Archive of Photo](/storage/proposals/Protect-palm-tree.png))_
 
 ## [Proposal] Allow unrestricted NYC renting
 
@@ -1122,6 +1122,6 @@ Proposer: Solitaire, Seconded by: Flora_Borealis, Date: July 1st, 2023
 
 _Notes: I'm not typing this shit, just read the google doc._
 
-[Google Doc](https://docs.google.com/document/d/1CIhRw8bhJImF7tuwub-_WZyEXvx6iB2pVn31VepoJvw/edit), [Archive](pathname:///storage/proposals/Homesteads-and-Towns-Act.pdf)
+[Google Doc](https://docs.google.com/document/d/1CIhRw8bhJImF7tuwub-_WZyEXvx6iB2pVn31VepoJvw/edit), [Archive](/storage/proposals/Homesteads-and-Towns-Act.pdf)
 
 **Proposal Failed:** 4 Ayes, 6 Nays, 4 Abstains
