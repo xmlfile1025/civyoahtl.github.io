@@ -256,6 +256,7 @@ export default withPwa(
       }
     },
     pwa: {
+      // mode: "development",
       base: "/",
       scope: "/",
       registerType: "autoUpdate",
@@ -268,14 +269,14 @@ export default withPwa(
       },
       includeAssets: ["favicon.ico", "**/*.png", "**/*.svg"],
       devOptions: {
-        enabled: false,
+        enabled: true,
         /* other options */
       },
       manifest: {
         name: "The Government of Yoahtl",
         short_name: "Yoahtl Gov",
         description: "The website for the Yoahtlan government",
-        theme_color: "#ffffff",
+        theme_color: "#ffcd30",
         icons: [
           {
             src: "pwa-192x192.png",

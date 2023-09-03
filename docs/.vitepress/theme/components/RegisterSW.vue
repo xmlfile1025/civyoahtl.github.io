@@ -9,12 +9,22 @@ const close = async () => {
   offlineReady.value = false
 }
 
+// update every hour
+const intervalMS = 60 * 60 * 1000
+
 onBeforeMount(async () => {
+
+  /** @type {import("pwa-register").registerSW} */
   const { registerSW } = await import('virtual:pwa-register')
   registerSW({
     immediate: true,
     onOfflineReady,
-    onRegistered() {
+    onRegistered(r) {
+
+      // manual update every hour
+      r && setInterval(() => {
+        r.update()
+      }, intervalMS)
 
       console.info('Service Worker registered')
     },
