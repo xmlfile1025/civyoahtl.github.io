@@ -256,6 +256,9 @@ export default withPwa(
       }
     },
     pwa: {
+      // disable pwa completely
+      selfDestroying: true,
+
       // mode: "development",
       base: "/",
       scope: "/",
